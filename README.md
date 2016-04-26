@@ -8,26 +8,18 @@ Genome annotation pipeline for variant reporting
 
 SCRIPT FUNCTIONS:
 
-1. 1_x_0_M1:
+1_x_0_M1:
 Determines if input variants are in 0- or 1-based. All 0-based variants are adjusted to 1-based. If a variant is neither 0- nor 0-based, then it is elminated. Also, this scripts fetches a larger, 250-mer DNA domain (Nmer) within which the variation is specified in the input .vcf files. Having such a DNA domain in the pipeline for each variant will facilitate a number of steps described downstream.
 
-2. 2_x_adj_NMER: 
+2_x_adj_NMER: 
 Adjusts the Nmer of all 0-based variations. A letter 'N' is added in front of each 0-based 250mer
 
 3_x_SORT_QC: 
 All non-SNV variations are QC-ed. Often, an MNV or a length variation comes described redundantly (eg. Ref: AAG to AG, where the left side A is redundant in both Ref and Alt). This type of redundancy is eliminated in by this script. At the end of this script, the genome level variation type is assigned to each variant: SNV, MNV, deletion, insertion, inversion, duplication, and complex (delins).
 
-4. 4_x_INPUT:
+4_x_INPUT:
 All input variants are matched to trascript coordinates obtained from UCSC Genome Browser. The following options are checked in UCSC downloads:
-# ----------- HUMAN -------
-# SOURCE: UCSC Table Browser
-# OPTIONS CHECKED:
-## Genome: Human
-## Reference genome: GRCh37/hg19, Feb. 2009
-## Group: mRNA and EST
-## Track: Human mRNAs
-## Table: RefSeq Genes (refGene)
-## Output format: all fields from the selected table
+OPTIONS CHECKED:Genome: Human; Reference genome: GRCh37/hg19, Feb. 2009; Group: mRNA and EST; Track: Human mRNAs; Table: RefSeq Genes (refGene); Output format: all fields from the selected table
 
 5_x_CAT_1:
 Determines the downstream path for all variants: either a coding or non-coding region variant. All coding region variants will go into translation. Non-coding region variants will have their own workflows.
