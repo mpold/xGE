@@ -1,0 +1,880 @@
+#chrom	position	dbSNP	var_type	ref	alt	coding_coseq	intron_conseq	junction_description	protein_conseq	ref_prot_size	alt_prot_size	strand
+chr9	100372727	.	del	TGCTGGTC	T	NM_139246(TSTD2):c.731_736delACCAGC	c.731-1delG	acceptor_site_exonic_intronic	p.T244_T244delinsK	516	514	-
+chr1	92948918	.	del	CGCGCCTCGCACCTGCTCGGC	C	NM_001127216(GFI1):c.107_115delGCCGAGCAG	c.115+1delGTGCGAGGCGC	donor_site_exonic_intronic	p.S36_S36delinsN	422	419	-
+chr1	92948918	.	del	CGCGCCTCGCACCTGCTCGGC	C	NM_001127215(GFI1):c.107_115delGCCGAGCAG	c.115+1delGTGCGAGGCGC	donor_site_exonic_intronic	p.S36_S36delinsN	422	419	-
+chr1	92948918	.	del	CGCGCCTCGCACCTGCTCGGC	C	NM_005263(GFI1):c.107_115delGCCGAGCAG	c.115+1delGTGCGAGGCGC	donor_site_exonic_intronic	p.S36_S36delinsN	422	419	-
+chr1	113253885	.	del	TACCAGCCGGTC	T	NM_005167(PPM1J):c.1039_1047delGACCGGCTG	c.1047+1delGT	donor_site_exonic_intronic	p.T347_T347delinsA	505	502	-
+chr10	135105979	.	del	TCCCCGTGTCCCGGGGAGCCCTACCTG	T	NM_006659(TUBGCP2):c.1212_1214delCAG	c.1214+1delGTAGGGCTCCCCGGGACACGGGG	donor_site_exonic_intronic	p.S405_S405delinsE	902	901	-
+chr10	135105979	.	del	TCCCCGTGTCCCGGGGAGCCCTACCTG	T	NM_001256618(TUBGCP2):c.822_824delCAG	c.824+1delGTAGGGCTCCCCGGGACACGGGG	donor_site_exonic_intronic	p.S275_S275delinsE	772	771	-
+chr10	135105979	.	del	TCCCCGTGTCCCGGGGAGCCCTACCTG	T	NM_001256617(TUBGCP2):c.1296_1298delCAG	c.1298+1delGTAGGGCTCCCCGGGACACGGGG	donor_site_exonic_intronic	p.S433_S433delinsE	930	929	-
+chr11	1501948	.	del	CGCGCACTGTTGCTGG	C	NM_001172223(MOB2):c.266_274delCCAGCAACA	c.274+1delGTGCGC	donor_site_exonic_intronic	p.S89_S89delinsT	268	265	-
+chr11	1501948	.	del	CGCGCACTGTTGCTGG	C	NM_053005(MOB2):c.157_165delCCAGCAACA	c.165+1delGTGCGC	donor_site_exonic_intronic	p.A53_A53delinsR	109	106	-
+chr12	58204793	.	del	AGGACTAACCTC	A	NM_006576(AVIL):c.446_448delGAG	c.448+1delGTTAGTCC	donor_site_exonic_intronic	p.E149_E149delinsV	819	818	-
+chr21	45949676	.	del	CTAACCATAGG	C	NM_001272037(TSPEAR):c.581_586delCCTATG	c.586+1delGTTA	donor_site_exonic_intronic	p.P194_P194delinsQ	601	599	-
+chr21	45949676	.	del	CTAACCATAGG	C	NM_144991(TSPEAR):c.785_790delCCTATG	c.790+1delGTTA	donor_site_exonic_intronic	p.P262_P262delinsQ	669	667	-
+chr3	130742846	.	del	TACCTC	T	NM_001288950(ASTE1):c.1300_1302delGAG	c.1302+1delGT	donor_site_exonic_intronic	p.E434_E434delinsL	704	703	-
+chr3	130742846	.	del	TACCTC	T	NM_014065(ASTE1):c.1300_1302delGAG	c.1302+1delGT	donor_site_exonic_intronic	p.E434_E434delinsL	679	678	-
+chr4	130014218	.	del	AGCTTACTTT	A	NM_144643(SCLT1):c.33_35delAAA	c.35+1delGTAAGC	donor_site_exonic_intronic	p.Q11_Q11delinsH	688	687	-
+chr4	130014218	.	del	AGCTTACTTT	A	NM_001300897(SCLT1):c.33_35delAAA	c.35+1delGTAAGC	donor_site_exonic_intronic	p.Q11_Q11delinsH	79	78	-
+chr4	130014218	.	del	AGCTTACTTT	A	NM_001300898(SCLT1):c.33_35delAAA	c.35+1delGTAAGC	donor_site_exonic_intronic	p.Q11_Q11delinsH	131	130	-
+chr5	32274084	.	del	ACATC	A	NM_001294343(MTMR12):c.285_287delGAT	c.287+1delG	donor_site_exonic_intronic	p.D95_D95delinsE	693	692	-
+chr5	32274084	.	del	ACATC	A	NM_001040446(MTMR12):c.285_287delGAT	c.287+1delG	donor_site_exonic_intronic	p.D95_D95delinsE	747	746	-
+chr5	32274084	.	del	ACATC	A	NM_001294344(MTMR12):c.285_287delGAT	c.287+1delG	donor_site_exonic_intronic	p.D95_D95delinsE	637	636	-
+chr5	35037033	.	del	GAAGAGCATTGTACCTT	G	NM_001306173(AGXT2):c.484_486delAAG	c.486+1delGTACAATGCTCTT	donor_site_exonic_intronic	p.K162_K162delinsV	439	438	-
+chr5	35037033	.	del	GAAGAGCATTGTACCTT	G	NM_031900(AGXT2):c.484_486delAAG	c.486+1delGTACAATGCTCTT	donor_site_exonic_intronic	p.K162_K162delinsV	514	513	-
+chr5	93727226	.	del	GGCCGTTTCCCTACCTCATT	G	NM_001145678(KIAA0825):c.3451_3456delAATGAG	c.3456+1delGTAGGGAAACGGC	donor_site_exonic_intronic	p.N1151_N1151delinsE	1275	1273	-
+chr8	67922943	.	del	ACACTACCTT	A	NM_001013626(PPP1R42):c.550_552delAAG	c.552+1delGTAGTG	donor_site_exonic_intronic	p.K184_K184delinsD	228	227	-
+chr3	48719571	.	del	GGGAAGATGGAAGTGGGATCT	G	NM_016453(NCKIPSD):c.487_504delATCCCACTTCCATCTTCC	c.487-2delAG	acceptor_site_exonic_intronic	p.I163_I163delinsQ	722	716	-
+chr9	134401361	.	del	TTGTC	T	NM_031432(UCK1):c.605_607delACA	c.605-1delG	acceptor_site_exonic_intronic	p.T202_T202delinsK	277	276	-
+chr9	134401361	.	del	TTGTC	T	NM_001135954(UCK1):c.510_512delACA	c.510-1delG	acceptor_site_exonic_intronic	p.D170_D170delinsE	201	200	-
+chr9	134401361	.	del	TTGTC	T	NM_001261451(UCK1):c.620_622delACA	c.620-1delG	acceptor_site_exonic_intronic	p.T207_T207delinsK	282	281	-
+chr9	134401361	.	del	TTGTC	T	NM_001261450(UCK1):c.578_580delACA	c.578-1delG	acceptor_site_exonic_intronic	p.T193_T193delinsK	268	267	-
+chr1	235318195	.	del	CCTT	C	NM_015014(RBM34):c.598_600delAAG		donor_site_exonic	p.K200_K200delinsL	430	429	-
+chr1	235318195	.	del	CCTT	C	NM_001161533(RBM34):c.598_600delAAG		donor_site_exonic	p.K200_K200delinsL	225	224	-
+chr1	156670663	.	del	CACCTT	C	NM_001878(CRABP2):c.248_250delAAG	c.250+1delGT	donor_site_exonic_intronic	p.K83_K83delinsS	138	137	-
+chr1	156670663	.	del	CACCTT	C	NM_001199723(CRABP2):c.248_250delAAG	c.250+1delGT	donor_site_exonic_intronic	p.K83_K83delinsS	138	137	-
+chr10	79613111	.	del	CCTG	C	NM_004747(DLG5):c.862_864delCAG		donor_site_exonic	p.Q288_Q288delinsV	1919	1918	-
+chr10	125639725	.	del	ACTCT	A	NM_198148(CPXM2):c.401_403delAGA	c.403+1delG	donor_site_exonic_intronic	p.E134_E134delinsG	756	755	-
+chr11	95621319	.	del	CCCT	C	NM_016156(MTMR2):c.184_186delAGG		donor_site_exonic	p.R62_R62delinsV	643	642	-
+chr11	45928418	.	del	ACCAT	A	NM_001080446(C11orf94):c.174_176delATG	c.176+1delG	donor_site_exonic_intronic	p.D59_D59delinsY	98	97	-
+chr12	112614399	.	del	CCTT	C	NM_001109662(HECTD4):c.11066_11068delAAG		donor_site_exonic	p.E3689_E3689delinsV	4284	4283	-
+chr15	44066793	.	del	CCTT	C	NM_025165(ELL3):c.822_824delAAG		donor_site_exonic	p.E274_E274delinsD	397	396	-
+chr16	320521	.	del	CCTT	C	NM_003834(RGS11):c.1141_1143delAAG		donor_site_exonic	p.K381_K381delinsD	446	445	-
+chr16	320521	.	del	CCTT	C	NM_183337(RGS11):c.1204_1206delAAG		donor_site_exonic	p.K402_K402delinsD	467	466	-
+chr16	320521	.	del	CCTT	C	NM_001286486(RGS11):c.652_654delAAG		donor_site_exonic	p.K218_K218delinsD	283	282	-
+chr16	320521	.	del	CCTT	C	NM_001286485(RGS11):c.1171_1173delAAG		donor_site_exonic	p.K391_K391delinsD	456	455	-
+chr17	62049928	.	del	CCTT	C	NM_000334(SCN4A):c.272_274delAAG		donor_site_exonic	p.K91_K91delinsT	1836	1835	-
+chr17	73127139	.	del	CCTT	C	NM_014595(NT5C):c.334_336delAAG		donor_site_exonic	p.K112_K112delinsY	201	200	-
+chr17	73127139	.	del	CCTT	C	NM_001252377(NT5C):c.334_336delAAG		donor_site_exonic	p.K112_K112delinsE	161	160	-
+chr17	27945804	.	del	TCACCGC	T	NM_032854(CORO6):c.632_634delGCG	c.634+1delGTG	donor_site_exonic_intronic	p.A211_A211delinsE	472	471	-
+chr19	57335629	.	del	CCTT	C	NM_006210(PEG3):c.393_395delAAG		donor_site_exonic	p.E131_E131delinsD	1588	1587	-
+chr19	57335629	.	del	CCTT	C	NM_001146326(ZIM2):c.15_17delAAG		donor_site_exonic	p.E5_E5delinsD	527	526	-
+chr19	57335629	.	del	CCTT	C	NM_001146327(ZIM2):c.15_17delAAG		donor_site_exonic	p.E5_E5delinsD	527	526	-
+chr19	57335629	.	del	CCTT	C	NM_001146185(PEG3):c.15_17delAAG		donor_site_exonic	p.E5_E5delinsD	1462	1461	-
+chr19	57335629	.	del	CCTT	C	NM_001146184(PEG3):c.393_395delAAG		donor_site_exonic	p.E131_E131delinsD	1588	1587	-
+chr19	57335629	.	del	CCTT	C	NM_001146186(PEG3):c.393_395delAAG		donor_site_exonic	p.E131_E131delinsD	1588	1587	-
+chr19	57335629	.	del	CCTT	C	NM_001146187(PEG3):c.15_17delAAG		donor_site_exonic	p.E5_E5delinsD	1464	1463	-
+chr19	57335629	.	del	CCTT	C	NM_015363(ZIM2):c.15_17delAAG		donor_site_exonic	p.E5_E5delinsD	527	526	-
+chr2	44058907	.	del	CCTT	C	NM_022436(ABCG5):c.499_501delAAG		donor_site_exonic	p.K167_K167delinsV	651	650	-
+chr20	13539654	.	del	CCTT	C	NM_017714(TASP1):c.673_675delAAG		donor_site_exonic	p.K225_K225delinsE	420	419	-
+chr20	24993236	.	del	CCTT	C	NM_032501(ACSS1):c.1769_1771delAAG		donor_site_exonic	p.E590_E590delinsA	689	688	-
+chr20	24993236	.	del	CCTT	C	NM_001252675(ACSS1):c.1763_1765delAAG		donor_site_exonic	p.E588_E588delinsA	687	686	-
+chr20	24993236	.	del	CCTT	C	NM_001252676(ACSS1):c.1406_1408delAAG		donor_site_exonic	p.E469_E469delinsA	568	567	-
+chr20	34220084	.	del	CCTT	C	NM_003915(CPNE1):c.469_471delAAG		donor_site_exonic	p.K157_K157delinsD	542	541	-
+chr20	34220084	.	del	CCTT	C	NM_152928(CPNE1):c.454_456delAAG		donor_site_exonic	p.K152_K152delinsD	537	536	-
+chr20	34220084	.	del	CCTT	C	NM_152927(CPNE1):c.454_456delAAG		donor_site_exonic	p.K152_K152delinsD	537	536	-
+chr20	34220084	.	del	CCTT	C	NM_152926(CPNE1):c.454_456delAAG		donor_site_exonic	p.K152_K152delinsD	537	536	-
+chr20	34220084	.	del	CCTT	C	NM_152925(CPNE1):c.454_456delAAG		donor_site_exonic	p.K152_K152delinsD	537	536	-
+chr20	34220084	.	del	CCTT	C	NM_001198863(CPNE1):c.454_456delAAG		donor_site_exonic	p.K152_K152delinsD	536	535	-
+chr22	42524175	.	del	CCTT	C	NM_000106(CYP2D6):c.841_843delAAG		donor_site_exonic	p.K281_K281delinsA	497	496	-
+chr22	42524175	.	del	CCTT	C	NM_001025161(CYP2D6):c.688_690delAAG		donor_site_exonic	p.K230_K230delinsA	446	445	-
+chr23	129373555	.	del	CCTT	C	NM_017666(ZNF280C):c.491_493delAAG		donor_site_exonic	p.E164_E164delinsG	737	736	-
+chr23	83374890	.	del	TACCATAAGAAC	T	NM_014496(RPS6KA6):c.781_789delGTTCTTATG	c.789+1delGT	donor_site_exonic_intronic	p.V261_V261delinsF	745	742	-
+chr3	25654005	.	del	CCTT	C	NM_001068(TOP2B):c.3769_3771delAAG		donor_site_exonic	p.K1257_K1257delinsG	1621	1620	-
+chr3	124826324	.	del	CCTT	C	NM_001195483(SLC12A8):c.1704_1706delAAG		donor_site_exonic	p.E568_E568delinsD	714	713	-
+chr3	124826324	.	del	CCTT	C	NM_024628(SLC12A8):c.1704_1706delAAG		donor_site_exonic	p.E568_E568delinsD	714	713	-
+chr3	14219965	.	del	CCCT	C	NM_004628(XPC):c.102_104delAGG		donor_site_exonic	p.E34_E34delinsD	940	939	-
+chr4	162431549	.	del	CCTT	C	NM_020116(FSTL5):c.1337_1339delAAG		donor_site_exonic	p.E446_E446delinsG	847	846	-
+chr4	162431549	.	del	CCTT	C	NM_001128427(FSTL5):c.1334_1336delAAG		donor_site_exonic	p.E445_E445delinsG	846	845	-
+chr4	2934820	.	del	CCCAGGAACATACCAGGCA	C	NM_001146069(MFSD10):c.367_372delTGCCTG	c.372+1delGTATGTTCCTGG	donor_site_exonic_intronic	p.C123_C123delinsM	455	453	-
+chr4	2934820	.	del	CCCAGGAACATACCAGGCA	C	NM_001120(MFSD10):c.367_372delTGCCTG	c.372+1delGTATGTTCCTGG	donor_site_exonic_intronic	p.C123_C123delinsM	455	453	-
+chr4	155236898	.	del	ACCTGAATCTCTGT	A	NM_017639(DCHS2):c.3884_3895delACAGAGATTCAG	c.3895+1delG	donor_site_exonic_intronic	p.D1295_D1295delinsG	2916	2912	-
+chr5	6607312	.	del	CCCACACACG	C	NM_001193455(NSUN2):c.1395_1403delCGTGTGTGG		donor_site_exonic	p.V466_V466delinsP	732	729	-
+chr5	6607312	.	del	CCCACACACG	C	NM_017755(NSUN2):c.1500_1508delCGTGTGTGG		donor_site_exonic	p.V501_V501delinsP	767	764	-
+chr1	110924414	.	del	GGACCTTAA	G	NM_001201549(SLC16A4):c.221_223delGTC	c.221-5delTTAAG	acceptor_site_exonic_intronic	p.G74_G74delinsA	319	318	-
+chr6	17624791	.	del	CTAGAAT	C	NM_001278209(NUP153):c.4262_4267delATTCTA		donor_site_exonic	p.N1421_N1421delinsS	1506	1504	-
+chr6	17624791	.	del	CTAGAAT	C	NM_005124(NUP153):c.4169_4174delATTCTA		donor_site_exonic	p.N1390_N1390delinsS	1475	1473	-
+chr6	17624791	.	del	CTAGAAT	C	NM_001278210(NUP153):c.4043_4048delATTCTA		donor_site_exonic	p.N1348_N1348delinsS	1433	1431	-
+chr1	110924414	.	del	GGACCTTAA	G	NM_001201547(SLC16A4):c.35_37delGTC	c.35-5delTTAAG	acceptor_site_exonic_intronic	p.G12_G12delinsA	425	424	-
+chr8	41753872	.	del	CCTT	C	NM_001142446(ANK1):c.124_126delAAG		donor_site_exonic	p.K42_K42delinsA	1897	1896	-
+chr8	145619858	.	del	CCTT	C	NM_013291(CPSF1):c.3566_3568delAAG		donor_site_exonic	p.K1189_K1189delinsI	1443	1442	-
+chr1	110924414	.	del	GGACCTTAA	G	NM_004696(SLC16A4):c.221_223delGTC	c.221-5delTTAAG	acceptor_site_exonic_intronic	p.G74_G74delinsA	487	486	-
+chr9	13205034	.	del	CCTT	C	NM_003829(MPDZ):c.1544_1546delAAG		donor_site_exonic	p.E515_E515delinsG	2041	2040	-
+chr9	13205034	.	del	CCTT	C	NM_001261406(MPDZ):c.1544_1546delAAG		donor_site_exonic	p.E515_E515delinsG	2037	2036	-
+chr9	13205034	.	del	CCTT	C	NM_001261407(MPDZ):c.1544_1546delAAG		donor_site_exonic	p.E515_E515delinsG	2008	2007	-
+chr9	35563160	.	del	AACCTGTGT	A	NM_001164310(FAM166B):c.281_286delACACAG	c.286+1delGT	donor_site_exonic_intronic	p.Y94_Y94delinsC	275	273	-
+chr9	35563160	.	del	AACCTGTGT	A	NM_001099951(FAM166B):c.281_286delACACAG	c.286+1delGT	donor_site_exonic_intronic	p.Y94_Y94delinsC	216	214	-
+chr9	35563160	.	del	AACCTGTGT	A	NM_001287239(FAM166B):c.281_286delACACAG	c.286+1delGT	donor_site_exonic_intronic	p.Y94_Y94delinsC	306	304	-
+chr9	35563160	.	del	AACCTGTGT	A	NM_001287238(FAM166B):c.281_286delACACAG	c.286+1delGT	donor_site_exonic_intronic	p.Y94_Y94delinsC	263	261	-
+chr10	91477476	.	del	CAAAGT	C	NM_016195(KIF20B):c.1269_1271delAAA	c.1271+1delGT	donor_site_exonic_intronic	p.K424_K424delinsF	1780	1779	+
+chr10	91477476	.	del	CAAAGT	C	NM_001284259(KIF20B):c.1269_1271delAAA	c.1271+1delGT	donor_site_exonic_intronic	p.K424_K424delinsF	1820	1819	+
+chr17	80680759	.	del	CCAGGTGAGTG	C	NM_024619(FN3KRP):c.466_468delCAG	c.468+1delGTGAGTG	donor_site_exonic_intronic	p.Q156_Q156delinsV	309	308	+
+chr19	6366371	.	del	ATCGGTAAGCACCC	A	NM_006012(CLPP):c.659_661delTCG	c.661+1delGTAAGCACCC	donor_site_exonic_intronic	p.I220_I220delinsK	277	276	+
+chr19	38778572	.	del	AGTGGTAG	A	NM_001166103(SPINT2):c.164_166delGTG	c.166+1delGTAG	donor_site_exonic_intronic	p.S55_S55delinsT	195	194	+
+chr19	38778572	.	del	AGTGGTAG	A	NM_021102(SPINT2):c.335_337delGTG	c.337+1delGTAG	donor_site_exonic_intronic	p.S112_S112delinsT	252	251	+
+chr5	55164721	.	del	CAGTTAAGAGAACTTAGTA	C	NM_139017(IL31RA):c.258_272delAGTTAAGAGAACTTA	c.272+1delGTA	donor_site_exonic_intronic	p.V87_V87delinsA	764	759	+
+chr5	55164721	.	del	CAGTTAAGAGAACTTAGTA	C	NM_001242637(IL31RA):c.258_272delAGTTAAGAGAACTTA	c.272+1delGTA	donor_site_exonic_intronic	p.V87_V87delinsA	681	676	+
+chr5	55164721	.	del	CAGTTAAGAGAACTTAGTA	C	NM_001242636(IL31RA):c.201_215delAGTTAAGAGAACTTA	c.215+1delGTA	donor_site_exonic_intronic	p.V68_V68delinsA	745	740	+
+chr5	55164721	.	del	CAGTTAAGAGAACTTAGTA	C	NM_001242638(IL31RA):c.201_215delAGTTAAGAGAACTTA	c.215+1delGTA	donor_site_exonic_intronic	p.V68_V68delinsA	662	657	+
+chr5	55164721	.	del	CAGTTAAGAGAACTTAGTA	C	NM_001297570(IL31RA):c.258_272delAGTTAAGAGAACTTA	c.272+1delGTA	donor_site_exonic_intronic	p.V87_V87delinsA	582	577	+
+chr6	6625242	.	del	CTGAG	C	NM_004271(LY86):c.221_223delTGA	c.223+1delG	donor_site_exonic_intronic	p.L74_L74delinsR	162	161	+
+chr7	107315551	.	del	CTATG	C	NM_000441(SLC26A4):c.763_765delTAT	c.765+1delG	donor_site_exonic_intronic	p.Y255_Y255delinsT	780	779	+
+chr13	95235487	.	del	AGATC	A	NM_014305(TGDS):c.314_316delATC	c.314-1delG	acceptor_site_exonic_intronic	p.D105_D105delinsV	350	349	-
+chr13	95235487	.	del	AGATC	A	NM_001304430(TGDS):c.218_220delATC	c.218-1delG	acceptor_site_exonic_intronic	p.D73_D73delinsV	318	317	-
+chr11	65633269	.	del	CCCTGCCCCCCAGCCT	C	NM_025128(MUS81):c.1509_1511delCCT	c.1509-12delCCTGCCCCCCAG	acceptor_site_exonic_intronic	p.L504_L504delinsA	551	550	+
+chr16	1395223	.	del	CGAGCCCTCACAACCCTCCCACCACAGGGA	C	NM_003933(BAIAP3):c.2046_2048delGGA	c.2046-26delGAGCCCTCACAACCCTCCCACCACAG	acceptor_site_exonic_intronic	p.D683_D683delinsS	1187	1186	+
+chr16	1395223	.	del	CGAGCCCTCACAACCCTCCCACCACAGGGA	C	NM_001199096(BAIAP3):c.1833_1835delGGA	c.1833-26delGAGCCCTCACAACCCTCCCACCACAG	acceptor_site_exonic_intronic	p.D612_D612delinsS	1116	1115	+
+chr16	1395223	.	del	CGAGCCCTCACAACCCTCCCACCACAGGGA	C	NM_001199099(BAIAP3):c.1857_1859delGGA	c.1857-26delGAGCCCTCACAACCCTCCCACCACAG	acceptor_site_exonic_intronic	p.D620_D620delinsS	1124	1123	+
+chr16	1395223	.	del	CGAGCCCTCACAACCCTCCCACCACAGGGA	C	NM_001199098(BAIAP3):c.1872_1874delGGA	c.1872-26delGAGCCCTCACAACCCTCCCACCACAG	acceptor_site_exonic_intronic	p.D625_D625delinsS	1129	1128	+
+chr16	1395223	.	del	CGAGCCCTCACAACCCTCCCACCACAGGGA	C	NM_001199097(BAIAP3):c.1941_1943delGGA	c.1941-26delGAGCCCTCACAACCCTCCCACCACAG	acceptor_site_exonic_intronic	p.D648_D648delinsS	1152	1151	+
+chr16	1395223	.	del	CGAGCCCTCACAACCCTCCCACCACAGGGA	C	NM_001286464(BAIAP3):c.1992_1994delGGA	c.1992-26delGAGCCCTCACAACCCTCCCACCACAG	acceptor_site_exonic_intronic	p.D665_D665delinsS	1169	1168	+
+chr17	7339494	.	del	ATCCGTTCCCTTTTTTTAGGTC	A	NM_178518(TMEM102):c.215_217delGTC	c.215-18delTCCGTTCCCTTTTTTTAG	acceptor_site_exonic_intronic	p.G72_G72delinsV	508	507	+
+chr23	152830377	.	del	AGGTC	A	NM_021949(ATP2B3):c.3160_3162delGTC	c.3160-1delG	acceptor_site_exonic_intronic	p.V1054_V1054delinsI	1173	1172	+
+chr23	152830377	.	del	AGGTC	A	NM_001001344(ATP2B3):c.3160_3162delGTC	c.3160-1delG	acceptor_site_exonic_intronic	p.V1054_V1054delinsI	1220	1219	+
+chr10	73056469	.	del	GATATTCCAGCTGCATACCACTCTGGCAGAGGTGAGGGAAGTCGGGGCCAC	G	NM_001244889(UNC5B):c.2429_2458delATATTCCAGCTGCATACCACTCTGGCAGAG	c.2458+1delGTGAGGGAAGTCGGGGCCAC	donor_site_exonic_intronic	p.I810_I810delinsT	934	924	+
+chr10	73056469	.	del	GATATTCCAGCTGCATACCACTCTGGCAGAGGTGAGGGAAGTCGGGGCCAC	G	NM_170744(UNC5B):c.2462_2491delATATTCCAGCTGCATACCACTCTGGCAGAG	c.2491+1delGTGAGGGAAGTCGGGGCCAC	donor_site_exonic_intronic	p.I821_I821delinsT	945	935	+
+chr11	62381340	.	del	CTGAG	C	NM_000327(ROM1):c.588_590delTGA	c.590+1delG	donor_site_exonic_intronic	p.D197_D197delinsR	351	350	+
+chr11	113780165	.	del	TATATTGGATGTGGTA	T	NM_006028(HTR3B):c.202_213delATATTGGATGTG	c.213+1delGTA	donor_site_exonic_intronic	p.I68_I68delinsD	441	437	+
+chr12	52467674	.	del	TGGGGAGTTCAAGGTAAGGGTGTC	T	NM_021934(ATG101):c.242_253delGGGGAGTTCAAG	c.253+1delGTAAGGGTGTC	donor_site_exonic_intronic	p.G81_G81delinsD	218	214	+
+chr12	52467674	.	del	TGGGGAGTTCAAGGTAAGGGTGTC	T	NM_001098673(ATG101):c.242_253delGGGGAGTTCAAG	c.253+1delGTAAGGGTGTC	donor_site_exonic_intronic	p.G81_G81delinsD	218	214	+
+chr13	113771907	.	del	CTGGG	C	NM_019616(F7):c.737_739delTGG	c.739+1delG	donor_site_exonic_intronic	p.L246_L246delinsR	444	443	+
+chr13	113771907	.	del	CTGGG	C	NM_000131(F7):c.803_805delTGG	c.805+1delG	donor_site_exonic_intronic	p.L268_L268delinsR	466	465	+
+chr13	113771907	.	del	CTGGG	C	NM_001267554(F7):c.551_553delTGG	c.553+1delG	donor_site_exonic_intronic	p.L184_L184delinsR	382	381	+
+chr15	91811832	.	del	ATAAG	A	NM_001167580(SV2B):c.918_920delTAA	c.920+1delG	donor_site_exonic_intronic	p.D306_D306delinsE	532	531	+
+chr15	91811832	.	del	ATAAG	A	NM_014848(SV2B):c.1371_1373delTAA	c.1373+1delG	donor_site_exonic_intronic	p.D457_D457delinsE	683	682	+
+chr17	25637197	.	del	ATAAG	A	NM_134265(WSB1):c.558_560delTAA	c.560+1delG	donor_site_exonic_intronic	p.D186_D186delinsE	275	274	+
+chr17	25637197	.	del	ATAAG	A	NM_015626(WSB1):c.996_998delTAA	c.998+1delG	donor_site_exonic_intronic	p.D332_D332delinsE	421	420	+
+chr2	168097237	.	del	CAAGAAACTGGT	C	NM_001079810(XIRP2):c.1034_1042delAAGAAACTG	c.1042+1delGT	donor_site_exonic_intronic	p.Q345_Q345delinsL	938	935	+
+chr2	168097237	.	del	CAAGAAACTGGT	C	NM_001199143(XIRP2):c.1133_1141delAAGAAACTG	c.1141+1delGT	donor_site_exonic_intronic	p.Q378_Q378delinsL	971	968	+
+chr2	168097237	.	del	CAAGAAACTGGT	C	NM_152381(XIRP2):c.1034_1042delAAGAAACTG	c.1042+1delGT	donor_site_exonic_intronic	p.Q345_Q345delinsL	3549	3546	+
+chr2	168097237	.	del	CAAGAAACTGGT	C	NM_001199145(XIRP2):c.368_376delAAGAAACTG	c.376+1delGT	donor_site_exonic_intronic	p.Q123_Q123delinsL	716	713	+
+chr2	168097237	.	del	CAAGAAACTGGT	C	NM_001199144(XIRP2):c.368_376delAAGAAACTG	c.376+1delGT	donor_site_exonic_intronic	p.Q123_Q123delinsL	3327	3324	+
+chr2	233244643	.	del	TGACGTGC	T	NM_001632(ALPP):c.656_658delGAC	c.658+1delGTGC	donor_site_exonic_intronic	p.D219_D219delinsV	535	534	+
+chr4	79772207	.	del	ATAAG	A	NM_198892(BMP2K):c.881_883delTAA	c.883+1delG	donor_site_exonic_intronic	p.I294_I294delinsR	1161	1160	+
+chr4	79772207	.	del	ATAAG	A	NM_017593(BMP2K):c.881_883delTAA	c.883+1delG	donor_site_exonic_intronic	p.I294_I294delinsR	662	661	+
+chr4	177094517	.	del	CTGAG	C	NM_181265(WDR17):c.3345_3347delTGA	c.3347+1delG	donor_site_exonic_intronic	p.E1116_E1116delinsA	1283	1282	+
+chr4	177094517	.	del	CTGAG	C	NM_170710(WDR17):c.3462_3464delTGA	c.3464+1delG	donor_site_exonic_intronic	p.E1155_E1155delinsA	1322	1321	+
+chr5	55147458	.	del	CATTGTGAGT	C	NM_139017(IL31RA):c.61_63delATT	c.63+1delGTGAGT	donor_site_exonic_intronic	p.I21_I21delinsL	764	763	+
+chr5	55147458	.	del	CATTGTGAGT	C	NM_001242637(IL31RA):c.61_63delATT	c.63+1delGTGAGT	donor_site_exonic_intronic	p.I21_I21delinsL	681	680	+
+chr5	55147458	.	del	CATTGTGAGT	C	NM_001297570(IL31RA):c.61_63delATT	c.63+1delGTGAGT	donor_site_exonic_intronic	p.I21_I21delinsL	582	581	+
+chr7	44148572	.	del	CTGAG	C	NM_001129(AEBP1):c.1016_1018delTGA	c.1018+1delG	donor_site_exonic_intronic	p.L339_L339delinsQ	1158	1157	+
+chr8	36661603	.	del	CTGAG	C	NM_001031836(KCNU1):c.375_377delTGA	c.377+1delG	donor_site_exonic_intronic	p.D126_D126delinsP	1149	1148	+
+chr9	97741706	.	del	AAAGGTAACTC	A	NM_032823(C9orf3):c.1678_1680delAAG	c.1680+1delGTAACTC	donor_site_exonic_intronic	p.K560_K560delinsP	720	719	+
+chr9	97741706	.	del	AAAGGTAACTC	A	NM_001193329(C9orf3):c.1975_1977delAAG	c.1977+1delGTAACTC	donor_site_exonic_intronic	p.K659_K659delinsP	819	818	+
+chr9	113445077	.	del	TTAAG	T	NM_001166280(MUSK):c.204_206delTAA	c.206+1delG	donor_site_exonic_intronic	p.K69_K69delinsL	783	782	+
+chr9	113445077	.	del	TTAAG	T	NM_005592(MUSK):c.204_206delTAA	c.206+1delG	donor_site_exonic_intronic	p.K69_K69delinsL	869	868	+
+chr9	113445077	.	del	TTAAG	T	NM_001166281(MUSK):c.204_206delTAA	c.206+1delG	donor_site_exonic_intronic	p.K69_K69delinsL	773	772	+
+chr1	151138944	.	del	CAGAAA	C	NM_024041(SCNM1):c.53_55delAAA	c.53-2delAG	acceptor_site_exonic_intronic	p.K18_K18delinsR	230	229	+
+chr4	48901930	.	del	AAAACAACAGGCTCT	A	NM_152398(OCIAD2):c.67_78delAGCCTGTTGTTT	c.67-2delAG	acceptor_site_exonic_intronic	p.S23_S23delinsC	99	95	-
+chr4	48901930	.	del	AAAACAACAGGCTCT	A	NM_001014446(OCIAD2):c.67_78delAGCCTGTTGTTT	c.67-2delAG	acceptor_site_exonic_intronic	p.S23_S23delinsC	154	150	-
+chr4	48901930	.	del	AAAACAACAGGCTCT	A	NM_001286773(OCIAD2):c.67_78delAGCCTGTTGTTT	c.67-2delAG	acceptor_site_exonic_intronic	p.S23_S23delinsC	99	95	-
+chr14	35550227	.	del	GGAA	G	NM_001079519(FAM177A1):c.454_456delGAA		acceptor_site_exonic	p.E152_E152delinsN	213	212	+
+chr14	35550227	.	del	GGAA	G	NM_001289022(FAM177A1):c.454_456delGAA		acceptor_site_exonic	p.E152_E152delinsN	213	212	+
+chr14	35550227	.	del	GGAA	G	NM_173607(FAM177A1):c.523_525delGAA		acceptor_site_exonic	p.E175_E175delinsN	236	235	+
+chr15	45426341	.	del	AGGCTCCC	A	NM_017434(DUOX1):c.144_149delGCTCCC	c.144-1delG	acceptor_site_exonic_intronic	p.S49_S49delinsL	1551	1549	+
+chr15	45426341	.	del	AGGCTCCC	A	NM_175940(DUOX1):c.144_149delGCTCCC	c.144-1delG	acceptor_site_exonic_intronic	p.S49_S49delinsL	1551	1549	+
+chr15	91433320	.	del	AGGGT	A	NM_001143785(FES):c.877_879delGGT	c.877-1delG	acceptor_site_exonic_intronic	p.V293_V293delinsQ	694	693	+
+chr15	91433320	.	del	AGGGT	A	NM_002005(FES):c.1051_1053delGGT	c.1051-1delG	acceptor_site_exonic_intronic	p.V351_V351delinsQ	822	821	+
+chr15	91433320	.	del	AGGGT	A	NM_001143784(FES):c.1051_1053delGGT	c.1051-1delG	acceptor_site_exonic_intronic	p.V351_V351delinsQ	752	751	+
+chr15	91433320	.	del	AGGGT	A	NM_001143783(FES):c.877_879delGGT	c.877-1delG	acceptor_site_exonic_intronic	p.V293_V293delinsQ	764	763	+
+chr16	47614205	.	del	GCTCGGTTGGTTT	G	NM_001031835(PHKB):c.690_701delCTCGGTTGGTTT		acceptor_site_exonic	p.S230_S230delinsR	1086	1082	+
+chr16	47614205	.	del	GCTCGGTTGGTTT	G	NM_000293(PHKB):c.711_722delCTCGGTTGGTTT		acceptor_site_exonic	p.S237_S237delinsR	1093	1089	+
+chr17	4686148	.	del	GGGGAGC	G	NM_003963(TM4SF5):c.396_401delGGGAGC		acceptor_site_exonic	p.G133_G133delinsY	197	195	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198945(DTNA):c.608_616delCAGCCACCT	c.608-3delCAG	acceptor_site_exonic_intronic	p.P203_P203delinsQ	320	317	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_032979(DTNA):c.1187_1195delCAGCCACCT	c.1187-3delCAG	acceptor_site_exonic_intronic	p.P396_P396delinsQ	513	510	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_032978(DTNA):c.1349_1357delCAGCCACCT	c.1349-3delCAG	acceptor_site_exonic_intronic	p.P450_P450delinsQ	567	564	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_032975(DTNA):c.1187_1195delCAGCCACCT	c.1187-3delCAG	acceptor_site_exonic_intronic	p.P396_P396delinsQ	686	683	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198940(DTNA):c.1178_1186delCAGCCACCT	c.1178-3delCAG	acceptor_site_exonic_intronic	p.P393_P393delinsQ	683	680	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198938(DTNA):c.1178_1186delCAGCCACCT	c.1178-3delCAG	acceptor_site_exonic_intronic	p.P393_P393delinsQ	724	721	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198941(DTNA):c.1178_1186delCAGCCACCT	c.1178-3delCAG	acceptor_site_exonic_intronic	p.P393_P393delinsQ	510	507	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001390(DTNA):c.1358_1366delCAGCCACCT	c.1358-3delCAG	acceptor_site_exonic_intronic	p.P453_P453delinsQ	743	740	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001391(DTNA):c.1358_1366delCAGCCACCT	c.1358-3delCAG	acceptor_site_exonic_intronic	p.P453_P453delinsQ	570	567	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198939(DTNA):c.1178_1186delCAGCCACCT	c.1178-3delCAG	acceptor_site_exonic_intronic	p.P393_P393delinsQ	690	687	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_032981(DTNA):c.224_232delCAGCCACCT	c.224-3delCAG	acceptor_site_exonic_intronic	p.P75_P75delinsQ	192	189	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_032980(DTNA):c.302_310delCAGCCACCT	c.302-3delCAG	acceptor_site_exonic_intronic	p.P101_P101delinsQ	391	388	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198942(DTNA):c.485_493delCAGCCACCT	c.485-3delCAG	acceptor_site_exonic_intronic	p.P162_P162delinsQ	452	449	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198943(DTNA):c.428_436delCAGCCACCT	c.428-3delCAG	acceptor_site_exonic_intronic	p.P143_P143delinsQ	433	430	+
+chr18	32431791	.	del	ACAGCAGCCACCT	A	NM_001198944(DTNA):c.314_322delCAGCCACCT	c.314-3delCAG	acceptor_site_exonic_intronic	p.P105_P105delinsQ	395	392	+
+chr19	5914950	.	del	GCCC	G	NM_004058(CAPS):c.523_525delCCC		acceptor_site_exonic	p.P175_P175delinsM	275	274	+
+chr19	5914950	.	del	GCCC	G	NM_080590(CAPS):c.523_525delCCC		acceptor_site_exonic	p.P175_P175delinsM	248	247	+
+chr6	32487419	.	del	TTAGGCTCAACTAG	T	NM_002125(HLA-DRB5):c.371_379delTTGAGCCTA	c.371-4delCTAG	acceptor_site_exonic_intronic	p.V124_V124delinsE	266	263	-
+chr2	11317862	.	del	GTTC	G	NM_152391(PQLC3):c.522_524delTTC		acceptor_site_exonic	p.L175_L175delinsR	202	201	+
+chr2	11317862	.	del	GTTC	G	NM_001282710(PQLC3):c.480_482delTTC		acceptor_site_exonic	p.L161_L161delinsR	188	187	+
+chr2	11922326	.	del	GTCT	G	NM_001261428(LPIN1):c.1111_1113delTCT		acceptor_site_exonic	p.S371_S371delinsP	975	974	+
+chr2	11922326	.	del	GTCT	G	NM_001261427(LPIN1):c.874_876delTCT		acceptor_site_exonic	p.S292_S292delinsP	896	895	+
+chr2	11922326	.	del	GTCT	G	NM_145693(LPIN1):c.856_858delTCT		acceptor_site_exonic	p.S286_S286delinsP	890	889	+
+chr6	43642993	.	del	TGATTTGGTAATAGACCTGA	T	NM_018135(MRPS18A):c.377_391delGTCTATTACCAAATC	c.377-4delTCAG	acceptor_site_exonic_intronic	p.G126_G126delinsD	196	191	-
+chr2	11922326	.	del	GTCT	G	NM_001261429(LPIN1):c.982_984delTCT		acceptor_site_exonic	p.S328_S328delinsP	459	458	+
+chr2	27352182	.	del	AGGGCTGTCGTGTTTAACAACCG	A	NM_032604(ABHD1):c.461_481delGGCTGTCGTGTTTAACAACCG	c.461-1delG	acceptor_site_exonic_intronic	p.A154_A154delinsG	405	398	+
+chr21	40880924	.	del	GGAA	G	NM_007341(SH3BGR):c.602_604delGAA		acceptor_site_exonic	p.E201_E201delinsG	239	238	+
+chr21	40880924	.	del	GGAA	G	NM_001001713(SH3BGR):c.269_271delGAA		acceptor_site_exonic	p.E90_E90delinsG	128	127	+
+chr23	128889269	.	del	GAGA	G	NM_003399(XPNPEP2):c.1222_1224delAGA		acceptor_site_exonic	p.E408_E408delinsQ	674	673	+
+chr23	129162609	.	del	GATT	G	NM_021946(BCORL1):c.4079_4081delATT		acceptor_site_exonic	p.D1360_D1360delinsV	1711	1710	+
+chr23	129162609	.	del	GATT	G	NM_001184772(BCORL1):c.4079_4081delATT		acceptor_site_exonic	p.D1360_D1360delinsV	1785	1784	+
+chr4	15569299	.	del	GGTTTTA	G	NM_001080522(CC2D2A):c.3291_3296delGTTTTA		acceptor_site_exonic	p.L1098_L1098delinsR	1620	1618	+
+chr4	185615675	.	del	GGAA	G	NM_152683(PRIMPOL):c.1431_1433delGAA		acceptor_site_exonic	p.E478_E478delinsF	560	559	+
+chr4	185615675	.	del	GGAA	G	NM_001300767(PRIMPOL):c.1044_1046delGAA		acceptor_site_exonic	p.E349_E349delinsF	431	430	+
+chr4	185615675	.	del	GGAA	G	NM_001300768(PRIMPOL):c.1428_1430delGAA		acceptor_site_exonic	p.E477_E477delinsF	559	558	+
+chr5	131671510	.	del	GATT	G	NM_003059(SLC22A4):c.1266_1268delATT		acceptor_site_exonic	p.Y423_Y423delinsF	551	550	+
+chr8	28309990	.	del	GTGTC	G	NM_001258211(FBXO16):c.472_474delACA	c.472-1delG	acceptor_site_exonic_intronic	p.T158_T158delinsP	280	279	-
+chr6	117865690	.	del	GGAA	G	NM_173674(DCBLD1):c.1455_1457delGAA		acceptor_site_exonic	p.K486_K486delinsG	539	538	+
+chr6	132201019	.	del	GAGA	G	NM_006208(ENPP1):c.1949_1951delAGA		acceptor_site_exonic	p.K650_K650delinsI	925	924	+
+chr6	150535879	.	del	GGAA	G	NM_030949(PPP1R14C):c.313_315delGAA		acceptor_site_exonic	p.E105_E105delinsM	165	164	+
+chr8	28309990	.	del	GTGTC	G	NM_172366(FBXO16):c.508_510delACA	c.508-1delG	acceptor_site_exonic_intronic	p.T170_T170delinsP	292	291	-
+chr7	114271582	.	del	GCAG	G	NM_148898(FOXP2):c.693_695delCAG		acceptor_site_exonic	p.Q234_Q234delinsL	740	739	+
+chr7	114271582	.	del	GCAG	G	NM_014491(FOXP2):c.618_620delCAG		acceptor_site_exonic	p.Q209_Q209delinsL	715	714	+
+chr7	114271582	.	del	GCAG	G	NM_148900(FOXP2):c.669_671delCAG		acceptor_site_exonic	p.Q226_Q226delinsL	732	731	+
+chr7	114271582	.	del	GCAG	G	NM_001172767(FOXP2):c.693_695delCAG		acceptor_site_exonic	p.Q234_Q234delinsL	457	456	+
+chr7	114271582	.	del	GCAG	G	NM_148899(FOXP2):c.618_620delCAG		acceptor_site_exonic	p.Q209_Q209delinsL	432	431	+
+chr7	141708305	.	del	GCCCCAGATCCTGGGACAACTGGTA	G	NM_004668(MGAM):c.165_188delCCCCAGATCCTGGGACAACTGGTA		acceptor_site_exonic	p.P60_P60delinsT	1857	1849	+
+chr7	114271579	.	del	CCAGCAG	C	NM_148898(FOXP2):c.693_695delCAG	c.693-3delCAG	acceptor_site_exonic_intronic	p.Q234_Q234delinsL	740	739	+
+chr7	114271579	.	del	CCAGCAG	C	NM_014491(FOXP2):c.618_620delCAG	c.618-3delCAG	acceptor_site_exonic_intronic	p.Q209_Q209delinsL	715	714	+
+chr7	114271579	.	del	CCAGCAG	C	NM_148900(FOXP2):c.669_671delCAG	c.669-3delCAG	acceptor_site_exonic_intronic	p.Q226_Q226delinsL	732	731	+
+chr7	114271579	.	del	CCAGCAG	C	NM_001172767(FOXP2):c.693_695delCAG	c.693-3delCAG	acceptor_site_exonic_intronic	p.Q234_Q234delinsL	457	456	+
+chr7	114271579	.	del	CCAGCAG	C	NM_148899(FOXP2):c.618_620delCAG	c.618-3delCAG	acceptor_site_exonic_intronic	p.Q209_Q209delinsL	432	431	+
+chr9	75315433	.	del	GAGA	G	NM_138691(TMC1):c.247_249delAGA		acceptor_site_exonic	p.E83_E83delinsI	760	759	+
+chr9	96019229	.	del	GCCT	G	NM_006648(WNK2):c.2196_2198delCCT		acceptor_site_exonic	p.P733_P733delinsL	2217	2216	+
+chr9	96019229	.	del	GCCT	G	NM_001282394(WNK2):c.2196_2198delCCT		acceptor_site_exonic	p.P733_P733delinsL	2297	2296	+
+chr9	114355246	.	del	ATCTTTTGGCTGCCACTCTGC	A	NM_001146108(PTGR1):c.153_168delAGTGGCAGCCAAAAGA	c.153-4delGCAG	acceptor_site_exonic_intronic	p.R51Sfs1	329	51	-
+chr9	114355246	.	del	ATCTTTTGGCTGCCACTCTGC	A	NM_012212(PTGR1):c.153_168delAGTGGCAGCCAAAAGA	c.153-4delGCAG	acceptor_site_exonic_intronic	p.R51Sfs1	329	51	-
+chr9	114355246	.	del	ATCTTTTGGCTGCCACTCTGC	A	NM_001146109(PTGR1):c.153_168delAGTGGCAGCCAAAAGA	c.153-4delGCAG	acceptor_site_exonic_intronic	p.R51Sfs1	301	51	-
+chr9	136550400	.	del	ATGGCTCGGC	A	NM_007101(SARDH):c.2070_2077delCCGAGCCA	c.2070-1delG	acceptor_site_exonic_intronic	p.R691Ffs80	918	770	-
+chr9	136550400	.	del	ATGGCTCGGC	A	NM_001134707(SARDH):c.2070_2077delCCGAGCCA	c.2070-1delG	acceptor_site_exonic_intronic	p.R691Ffs80	918	770	-
+chr1	20501497	.	del	CACCT	C	NM_001105572(PLA2G2C):c.187_188delAG	c.188+1delGT	donor_site_exonic_intronic	p.S63Pfs50	150	112	-
+chr1	52301794	.	del	AATTCTTACTGTG	A	NM_002525(NRD1):c.913_916delCACA	c.916+1delGTAAGAAT	donor_site_exonic_intronic	p.H305Wfs6	1219	310	-
+chr1	52301794	.	del	AATTCTTACTGTG	A	NM_001101662(NRD1):c.709_712delCACA	c.712+1delGTAAGAAT	donor_site_exonic_intronic	p.H237Wfs6	1151	242	-
+chr1	52301794	.	del	AATTCTTACTGTG	A	NM_001242361(NRD1):c.517_520delCACA	c.520+1delGTAAGAAT	donor_site_exonic_intronic	p.H173Wfs6	1087	178	-
+chr1	89477423	.	del	AAATTACCGCT	A	NM_018284(GBP3):c.1146_1149delAGCG	c.1149+1delGTAATT	donor_site_exonic_intronic	p.A383Pfs2	595	384	-
+chr1	203186864	.	del	TACTC	T	NM_003465(CHIT1):c.1156_1157delGA	c.1157+1delGT	donor_site_exonic_intronic	p.L387Sfs10	466	396	-
+chr1	203186864	.	del	TACTC	T	NM_001256125(CHIT1):c.1099_1100delGA	c.1100+1delGT	donor_site_exonic_intronic	p.L368Sfs10	447	377	-
+chr1	203186864	.	del	TACTC	T	NM_001270509(CHIT1):c.1021_1022delGA	c.1022+1delGT	donor_site_exonic_intronic	p.L342Sfs10	421	351	-
+chr1	247005992	.	del	ATACT	A	NM_015446(AHCTF1):c.6638delA	c.6638+1delGTA	donor_site_exonic_intronic	p.N2213Tfs12	2275	2224	-
+chr12	82748269	.	del	CTTACTTGT	C	NM_014167(CCDC59):c.561_564delACAA	c.564+1delGTAA	donor_site_exonic_intronic	p.Q188Nfs26	241	213	-
+chr14	23378689	.	del	CACTT	C	NM_001077352(RBM23):c.178_179delAA	c.179+1delGT	donor_site_exonic_intronic	p.N60Sfs1	405	60	-
+chr14	23378689	.	del	CACTT	C	NM_001077351(RBM23):c.178_179delAA	c.179+1delGT	donor_site_exonic_intronic	p.K60Efs7	439	66	-
+chr14	23378689	.	del	CACTT	C	NM_018107(RBM23):c.178_179delAA	c.179+1delGT	donor_site_exonic_intronic	p.N60Sfs1	423	60	-
+chr14	51378443	.	del	AGTACC	A	NM_002863(PYGL):c.1969delG	c.1969+1delGTAC	donor_site_exonic_intronic	p.V657Sfs23	847	679	-
+chr14	51378443	.	del	AGTACC	A	NM_001163940(PYGL):c.1867delG	c.1867+1delGTAC	donor_site_exonic_intronic	p.V623Sfs23	813	645	-
+chr14	88429721	.	del	AGTTTACCATG	A	NM_000153(GALC):c.1158_1161delCATG	c.1161+1delGTAAAC	donor_site_exonic_intronic	p.M387Vfs68	685	454	-
+chr14	88429721	.	del	AGTTTACCATG	A	NM_001201402(GALC):c.1080_1083delCATG	c.1083+1delGTAAAC	donor_site_exonic_intronic	p.M361Vfs68	659	428	-
+chr14	88429721	.	del	AGTTTACCATG	A	NM_001201401(GALC):c.1089_1092delCATG	c.1092+1delGTAAAC	donor_site_exonic_intronic	p.M364Vfs68	662	431	-
+chr16	17451865	.	del	TTACC	T	NM_022166(XYLT1):c.403delG	c.403+1delGTA	donor_site_exonic_intronic	p.D135Mfs58	959	192	-
+chr16	67985038	.	del	CTCACCTGT	C	NM_001145961(SLC12A4):c.1294_1297delACAG	c.1297+1delGTGA	donor_site_exonic_intronic	p.T432Afs117	1079	548	-
+chr16	67985038	.	del	CTCACCTGT	C	NM_001145963(SLC12A4):c.1276_1279delACAG	c.1279+1delGTGA	donor_site_exonic_intronic	p.T426Afs117	1079	542	-
+chr16	67985038	.	del	CTCACCTGT	C	NM_001145962(SLC12A4):c.1300_1303delACAG	c.1303+1delGTGA	donor_site_exonic_intronic	p.T434Afs117	1087	550	-
+chr16	67985038	.	del	CTCACCTGT	C	NM_005072(SLC12A4):c.1294_1297delACAG	c.1297+1delGTGA	donor_site_exonic_intronic	p.T432Afs117	1085	548	-
+chr16	67985038	.	del	CTCACCTGT	C	NM_001145964(SLC12A4):c.1201_1204delACAG	c.1204+1delGTGA	donor_site_exonic_intronic	p.T401Afs117	1054	517	-
+chr17	489507	.	del	CACTT	C	NM_001128159(VPS53):c.1312_1313delAA	c.1313+1delGT	donor_site_exonic_intronic	p.K438Efs11	832	448	-
+chr17	489507	.	del	CACTT	C	NM_018289(VPS53):c.1225_1226delAA	c.1226+1delGT	donor_site_exonic_intronic	p.K409Efs11	670	419	-
+chr17	47921418	.	del	TCACTCACCTCC	T	NM_001077504(TAC4):c.197_200delGGAG	c.200+1delGTGAGTG	donor_site_exonic_intronic	p.G66Efs3	87	68	-
+chr17	47921418	.	del	TCACTCACCTCC	T	NM_001077503(TAC4):c.196_199delGGAG	c.199+1delGTGAGTG	donor_site_exonic_intronic	p.G66Hfs100	96	165	-
+chr17	47921418	.	del	TCACTCACCTCC	T	NM_001077505(TAC4):c.197_200delGGAG	c.200+1delGTGAGTG	donor_site_exonic_intronic	p.G66Afs80	76	145	-
+chr17	47921418	.	del	TCACTCACCTCC	T	NM_170685(TAC4):c.215_218delGGAG	c.218+1delGTGAGTG	donor_site_exonic_intronic	p.G72Efs3	113	74	-
+chr17	47921418	.	del	TCACTCACCTCC	T	NM_001077506(TAC4):c.197_200delGGAG	c.200+1delGTGAGTG	donor_site_exonic_intronic	p.G66Efs3	107	68	-
+chr18	59821771	.	del	CACAAACCT	C	NM_176787(PIGN):c.548_549delAG	c.549+1delGTTTGT	donor_site_exonic_intronic	p.K183Rfs14	931	196	-
+chr18	59821771	.	del	CACAAACCT	C	NM_012327(PIGN):c.548_549delAG	c.549+1delGTTTGT	donor_site_exonic_intronic	p.K183Rfs14	931	196	-
+chr19	10229753	.	del	TCCTCACTCACCTCCCGGC	T	NM_003755(EIF3G):c.144_151delGCCGGGAG	c.151+1delGTGAGTGAGG	donor_site_exonic_intronic	p.P49Sfs22	320	70	-
+chr2	30964764	.	del	GGTACCATACCT	G	NM_144575(CAPN13):c.1537_1538delAG	c.1538+1delGTATGGTAC	donor_site_exonic_intronic	p.R513Afs3	669	515	-
+chr2	46840830	.	del	TACTC	T	NM_002643(PIGF):c.320_321delGA	c.321+1delGT	donor_site_exonic_intronic	p.E107Vfs36	219	142	-
+chr2	46840830	.	del	TACTC	T	NM_173074(PIGF):c.320_321delGA	c.321+1delGT	donor_site_exonic_intronic	p.E107Vfs36	206	142	-
+chr2	111419157	.	del	ACCC	A	NM_001278616(BUB1):c.1156_1157delGG	c.1157+1delG	donor_site_exonic_intronic	p.G386Mfs3	1065	388	-
+chr2	111419157	.	del	ACCC	A	NM_004336(BUB1):c.1216_1217delGG	c.1217+1delG	donor_site_exonic_intronic	p.G406Mfs3	1085	408	-
+chr2	111419157	.	del	ACCC	A	NM_001278617(BUB1):c.1216_1217delGG	c.1217+1delG	donor_site_exonic_intronic	p.G406Mfs3	1028	408	-
+chr2	162879260	.	del	CTTACTCTTCCAA	C	NM_001935(DPP4):c.1063_1070delTTGGAAGA	c.1070+1delGTAA	donor_site_exonic_intronic	p.G355*	766	354	-
+chr2	182521482	.	del	GGCCGGGCACTCACCC	G	NM_001030313(CERKL):c.238_239delGG	c.239+1delGTGAGTGCCCGGC	donor_site_exonic_intronic	p.G80*	463	79	-
+chr2	182521482	.	del	GGCCGGGCACTCACCC	G	NM_001030312(CERKL):c.238_239delGG	c.239+1delGTGAGTGCCCGGC	donor_site_exonic_intronic	p.G80*	419	79	-
+chr2	182521482	.	del	GGCCGGGCACTCACCC	G	NM_001160277(CERKL):c.238_239delGG	c.239+1delGTGAGTGCCCGGC	donor_site_exonic_intronic	p.G80*	514	79	-
+chr2	182521482	.	del	GGCCGGGCACTCACCC	G	NM_001030311(CERKL):c.238_239delGG	c.239+1delGTGAGTGCCCGGC	donor_site_exonic_intronic	p.G80*	558	79	-
+chr2	182521482	.	del	GGCCGGGCACTCACCC	G	NM_201548(CERKL):c.238_239delGG	c.239+1delGTGAGTGCCCGGC	donor_site_exonic_intronic	p.G80*	532	79	-
+chr2	196889150	.	del	TACTC	T	NM_018897(DNAH7):c.742_743delGA	c.743+1delGT	donor_site_exonic_intronic	p.E248Nfs19	4024	266	-
+chr2	215802232	.	del	ACTT	A	NM_173076(ABCA12):c.7541_7542delAA	c.7542+1delG	donor_site_exonic_intronic	p.K2514Rfs22	2595	2535	-
+chr2	215802232	.	del	ACTT	A	NM_015657(ABCA12):c.6587_6588delAA	c.6588+1delG	donor_site_exonic_intronic	p.K2196Rfs22	2277	2217	-
+chr2	220038067	.	del	CTCACCTTTA	C	NM_015680(CNPPD1):c.686_690delTAAAG	c.690+1delGTGA	donor_site_exonic_intronic	p.V229Afs38	410	266	-
+chr2	220074949	.	del	TACCGTC	T	NM_005689(ABCB6):c.2417_2420delGACG	c.2420+1delGT	donor_site_exonic_intronic	p.G806Dfs?93	842	898	-
+chr22	38341032	.	del	GTCCGTCGGAGTCTTACGCTCTTC	G	NM_032561(C22orf23):c.475_481delGAAGAGC	c.481+1delGTAAGACTCCGACGGA	donor_site_exonic_intronic	p.E159Wfs1	217	159	-
+chr22	38341032	.	del	GTCCGTCGGAGTCTTACGCTCTTC	G	NM_001207062(C22orf23):c.412_418delGAAGAGC	c.418+1delGTAAGACTCCGACGGA	donor_site_exonic_intronic	p.E138Wfs1	196	138	-
+chr3	48602832	.	del	GCTGTCCTCACCTTC	G	NM_000094(COL7A1):c.8524_8527delGAAG	c.8527+1delGTGAGGACAG	donor_site_exonic_intronic	p.E2842Sfs54	2944	2895	-
+chr3	53852960	.	del	AGTACCT	A	NM_018397(CHDH):c.1366_1367delAG	c.1367+1delGTAC	donor_site_exonic_intronic	p.E456Nfs1	594	456	-
+chr3	195593757	.	del	CACTT	C	NM_001010938(TNK2):c.3253_3254delAA	c.3254+1delGT	donor_site_exonic_intronic	p.K1085Afs12	1086	1096	-
+chr3	195593757	.	del	CACTT	C	NM_001308046(TNK2):c.3115_3116delAA	c.3116+1delGT	donor_site_exonic_intronic	p.K1039Afs12	1040	1050	-
+chr3	195593757	.	del	CACTT	C	NM_005781(TNK2):c.3109_3110delAA	c.3110+1delGT	donor_site_exonic_intronic	p.K1037Afs12	1038	1048	-
+chr4	57248638	.	del	CTTACA	C	NM_181806(AASDH):c.351delT	c.351+1delGTAA	donor_site_exonic_intronic	p.N117Kfs10	1098	126	-
+chr4	57248638	.	del	CTTACA	C	NM_001286672(AASDH):c.351delT	c.351+1delGTAA	donor_site_exonic_intronic	p.N117Kfs10	841	126	-
+chr4	57248638	.	del	CTTACA	C	NM_001286668(AASDH):c.51delT	c.51+1delGTAA	donor_site_exonic_intronic	p.N17Kfs10	998	26	-
+chr4	57248638	.	del	CTTACA	C	NM_001286671(AASDH):c.351delT	c.351+1delGTAA	donor_site_exonic_intronic	p.N117Kfs10	857	126	-
+chr4	151821189	.	del	GAAATTATATACCT	G	NM_006726(LRBA):c.1924_1925delAG	c.1925+1delGTATATAATTT	donor_site_exonic_intronic	p.D642Wfs4	2863	645	-
+chr4	151821189	.	del	GAAATTATATACCT	G	NM_001199282(LRBA):c.1924_1925delAG	c.1925+1delGTATATAATTT	donor_site_exonic_intronic	p.D642Wfs4	2851	645	-
+chr6	31846710	.	del	AGTCTCACC	A	NM_025257(SLC44A4):c.42delG	c.42+1delGTGAGAC	donor_site_exonic_intronic	p.K15Sfs31	710	45	-
+chr6	31846710	.	del	AGTCTCACC	A	NM_001178044(SLC44A4):c.42delG	c.42+1delGTGAGAC	donor_site_exonic_intronic	p.K15Sfs31	668	45	-
+chr6	46982412	.	del	CTCACCTTGT	C	NM_153840(ADGRF1):c.924_928delACAAG	c.928+1delGTGA	donor_site_exonic_intronic	p.N308Kfs10	910	317	-
+chr8	37822774	.	del	GTTACCTACCCGTC	G	NM_000025(ADRB3):c.1202_1206delGACGG	c.1206+1delGTAGGTAA	donor_site_exonic_intronic	p.D401Gfs17	408	417	-
+chr8	142228093	.	del	GGTGGCCGAGCACTCACCT	G	NM_001080431(SLC45A4):c.1475_1476delAG	c.1476+1delGTGAGTGCTCGGCCAC	donor_site_exonic_intronic	p.K492Sfs100	798	591	-
+chr8	142228093	.	del	GGTGGCCGAGCACTCACCT	G	NM_001286648(SLC45A4):c.1475_1476delAG	c.1476+1delGTGAGTGCTCGGCCAC	donor_site_exonic_intronic	p.K492Sfs100	717	591	-
+chr8	142228093	.	del	GGTGGCCGAGCACTCACCT	G	NM_001286646(SLC45A4):c.1628_1629delAG	c.1629+1delGTGAGTGCTCGGCCAC	donor_site_exonic_intronic	p.K543Sfs100	808	642	-
+chr9	123751843	.	del	TACC	T	NM_001735(C5):c.3156delG	c.3156+1delGT	donor_site_exonic_intronic	p.M1053Cfs1	1676	1053	-
+chr9	140008693	.	del	ACGT	A	NM_013379(DPP7):c.320_321delAC	c.321+1delG	donor_site_exonic_intronic	p.H107Pfs102	492	208	-
+chr1	33820165	.	del	GGGCTGTCAAA	G	NM_198040(PHC2):c.1392_1393delCC	c.1392-8delTTTGACAG	acceptor_site_exonic_intronic	p.Q465Afs4	858	468	-
+chr10	27335448	.	del	CACT	C	NM_001256053(ANKRD26):c.1815delT	c.1815-2delAG	acceptor_site_exonic_intronic	p.S605Rfs6	1709	610	-
+chr11	125547906	.	del	CTGCTCACCTACAGTA	C	NM_020108(ACRV1):c.123_129delGTGAGCA	c.123-8delTACTGTAG	acceptor_site_exonic_intronic	p.E42Lfs16	195	57	-
+chr16	5079008	.	del	TGCTGCGGCACAAAGCGGC	T	NM_016256(NAGPA):c.792delC	c.792-17delGCCGCTTTGTGCCGCAG	acceptor_site_exonic_intronic	p.I265Sfs10	515	274	-
+chr17	3623694	.	del	TAACTAG	T	NM_002208(ITGAE):c.3238_3239delTT	c.3238-4delCTAG	acceptor_site_exonic_intronic	p.L1080Tfs5	1179	1084	-
+chr17	4453647	.	del	AGCT	A	NM_014520(MYBBP1A):c.1024delC	c.1024-2delAG	acceptor_site_exonic_intronic	p.L342Sfs18	1328	359	-
+chr17	4453647	.	del	AGCT	A	NM_001105538(MYBBP1A):c.1024delC	c.1024-2delAG	acceptor_site_exonic_intronic	p.L342Sfs18	1332	359	-
+chr19	51128550	.	del	TGCTG	T	NM_032298(SYT3):c.1575delC	c.1575-3delCAG	acceptor_site_exonic_intronic	p.C525*	590	524	-
+chr19	51128550	.	del	TGCTG	T	NM_001160328(SYT3):c.1575delC	c.1575-3delCAG	acceptor_site_exonic_intronic	p.C525*	590	524	-
+chr19	51128550	.	del	TGCTG	T	NM_001160329(SYT3):c.1575delC	c.1575-3delCAG	acceptor_site_exonic_intronic	p.C525*	590	524	-
+chr3	123337613	.	del	ATCT	A	NM_053031(MYLK):c.89delA	c.89-2delAG	acceptor_site_exonic_intronic	p.D30Vfs16	153	45	-
+chr3	52867445	.	del	CTCTG	C	NM_205853(MUSTN1):c.143delA	c.143-3delCAG	acceptor_site_exonic_intronic	p.E48Gfs?104	82	151	-
+chr3	52867445	.	del	CTCTG	C	NM_001198974(TMEM110-MUSTN1):c.1013delA	c.1013-3delCAG	acceptor_site_exonic_intronic	p.E338Gfs?104	372	441	-
+chr6	44254267	.	del	TTTC	T	NM_182539(TCTE1):c.280_281delAA	c.280-1delG	acceptor_site_exonic_intronic	p.N94Pfs20	501	113	-
+chr1	103444262	.	del	ACT	A	NM_001190709(COL11A1):c.2637delA	c.2637+1delG	donor_site_exonic_intronic	p.G880Vfs62	1767	941	-
+chr1	103444262	.	del	ACT	A	NM_080629(COL11A1):c.2790delA	c.2790+1delG	donor_site_exonic_intronic	p.G931Vfs62	1818	992	-
+chr1	103444262	.	del	ACT	A	NM_001854(COL11A1):c.2754delA	c.2754+1delG	donor_site_exonic_intronic	p.G919Vfs62	1806	980	-
+chr1	103444262	.	del	ACT	A	NM_080630(COL11A1):c.2406delA	c.2406+1delG	donor_site_exonic_intronic	p.G803Vfs62	1690	864	-
+chr1	114240882	.	del	ACT	A	NM_006608(PHTF1):c.2268delA	c.2268+1delG	donor_site_exonic_intronic	p.R756Sfs82	762	837	-
+chr1	155224188	.	del	TACC	T	NM_006589(FAM189B):c.282delG	c.282+1delGT	donor_site_exonic_intronic	p.I95Sfs60	668	154	-
+chr1	155231446	.	del	ACCT	A	NM_005698(SCAMP3):c.143_144delAG	c.144+1delG	donor_site_exonic_intronic	p.E48Afs5	347	52	-
+chr1	245019204	.	del	GCCT	G	NM_004501(HNRNPU):c.2109_2110delAG	c.2110+1delG	donor_site_exonic_intronic	p.A704Pfs7	806	710	-
+chr1	245019204	.	del	GCCT	G	NM_031844(HNRNPU):c.2166_2167delAG	c.2167+1delG	donor_site_exonic_intronic	p.A723Pfs7	825	729	-
+chr1	26609354	.	del	CCT	C	NM_001077262(UBXN11):c.790_791delAG		donor_site_exonic	p.R264Efs19	400	282	-
+chr1	26609354	.	del	CCT	C	NM_145345(UBXN11):c.1051_1052delAG		donor_site_exonic	p.R351Efs19	487	369	-
+chr1	26609354	.	del	CCT	C	NM_183008(UBXN11):c.1150_1151delAG		donor_site_exonic	p.R384Efs19	520	402	-
+chr1	149905298	.	del	CCAGG	C	NM_001145862(MTMR11):c.982_985delCCTG		donor_site_exonic	p.P328Ifs3	709	330	-
+chr1	149905298	.	del	CCAGG	C	NM_181873(MTMR11):c.766_769delCCTG		donor_site_exonic	p.P256Ifs3	640	258	-
+chr10	70231546	.	del	ACAGCTCCGCCGG	A	NM_001080449(DNA2):c.64_74delCCGGCGGAGCT	c.74+1delG	donor_site_exonic_intronic	p.P22Ifs19	1060	40	-
+chr10	100249807	.	del	CTT	C	NM_021828(HPSE2):c.1465_1466delAA		donor_site_exonic	p.N489Pfs125	592	613	-
+chr10	100249807	.	del	CTT	C	NM_001166246(HPSE2):c.1465_1466delAA		donor_site_exonic	p.N489Pfs?71	548	559	-
+chr10	100249807	.	del	CTT	C	NM_001166245(HPSE2):c.1129_1130delAA		donor_site_exonic	p.N377Pfs125	480	501	-
+chr10	100249807	.	del	CTT	C	NM_001166244(HPSE2):c.1291_1292delAA		donor_site_exonic	p.N431Pfs125	534	555	-
+chr11	433814	.	del	CCT	C	NM_001012302(ANO9):c.203_204delAG		donor_site_exonic	p.K68Sfs14	782	81	-
+chr11	65149385	.	del	CCAGAGATCCAG	C	NM_182556(SLC25A45):c.27_37delCTGGATCTCTG		donor_site_exonic	p.W10Rfs10	288	19	-
+chr11	65149385	.	del	CCAGAGATCCAG	C	NM_001278250(SLC25A45):c.27_37delCTGGATCTCTG		donor_site_exonic	p.W10Rfs10	264	19	-
+chr11	65149385	.	del	CCAGAGATCCAG	C	NM_001300820(SLC25A45):c.27_37delCTGGATCTCTG		donor_site_exonic	p.W10Rfs10	226	19	-
+chr11	101362286	.	del	CTTTT	C	NM_004621(TRPC6):c.1125_1128delAAAA		donor_site_exonic	p.K375Nfs2	931	376	-
+chr12	53187893	.	del	ACTT	A	NM_057088(KRT3):c.866_867delAA	c.867+1delG	donor_site_exonic_intronic	p.K289Ifs1	628	289	-
+chr12	76444309	.	del	ACAT	A	NM_004537(NAP1L1):c.1058_1059delAT	c.1059+1delG	donor_site_exonic_intronic	p.D353Vfs1	391	353	-
+chr12	76444309	.	del	ACAT	A	NM_001307924(NAP1L1):c.1058_1059delAT	c.1059+1delG	donor_site_exonic_intronic	p.D353Vfs1	383	353	-
+chr12	76444309	.	del	ACAT	A	NM_139207(NAP1L1):c.1058_1059delAT	c.1059+1delG	donor_site_exonic_intronic	p.D353Vfs1	391	353	-
+chr12	95926604	.	del	CCTGA	C	NM_032147(USP44):c.1425_1428delTCAG		donor_site_exonic	p.S475Rfs13	712	487	-
+chr12	95926604	.	del	CCTGA	C	NM_001042403(USP44):c.1425_1428delTCAG		donor_site_exonic	p.S475Rfs13	712	487	-
+chr12	95926604	.	del	CCTGA	C	NM_001278393(USP44):c.1425_1428delTCAG		donor_site_exonic	p.S475Rfs13	712	487	-
+chr14	81329099	.	del	ACCT	A	NM_152446(CEP128):c.761_762delAG	c.762+1delG	donor_site_exonic_intronic	p.E254Gfs7	1094	260	-
+chr14	24680885	.	del	CCT	C	NM_014169(CHMP4A):c.309_310delAG		donor_site_exonic	p.R103Sfs19	265	121	-
+chr15	42144831	.	del	CCT	C	NM_016642(SPTBN5):c.10449_10450delAG		donor_site_exonic	p.E3483Dfs39	3674	3521	-
+chr16	28604571	.	del	ACCT	A	NM_177528(SULT1A2):c.594_595delAG	c.595+1delG	donor_site_exonic_intronic	p.N199Pfs25	295	223	-
+chr16	28604571	.	del	ACCT	A	NM_001054(SULT1A2):c.594_595delAG	c.595+1delG	donor_site_exonic_intronic	p.N199Pfs25	295	223	-
+chr17	19611613	.	del	ACCTGACCC	A	NM_001099646(SLC47A2):c.626_632delGGGTCAG	c.632+1delG	donor_site_exonic_intronic	p.V209Afs22	566	230	-
+chr17	19611613	.	del	ACCTGACCC	A	NM_152908(SLC47A2):c.734_740delGGGTCAG	c.740+1delG	donor_site_exonic_intronic	p.V245Afs22	602	266	-
+chr17	19611613	.	del	ACCTGACCC	A	NM_001256663(SLC47A2):c.626_632delGGGTCAG	c.632+1delG	donor_site_exonic_intronic	p.V209Afs22	580	230	-
+chr17	66538124	.	del	ACTC	A	NM_017565(FAM20A):c.1109_1110delGA	c.1110+1delG	donor_site_exonic_intronic	p.E370Vfs8	541	377	-
+chr17	66538124	.	del	ACTC	A	NM_001243746(FAM20A):c.695_696delGA	c.696+1delG	donor_site_exonic_intronic	p.E232Vfs8	403	239	-
+chr17	73263617	.	del	ACCT	A	NM_020679(MIF4GD):c.542_543delAG	c.543+1delG	donor_site_exonic_intronic	p.E181Gfs24	256	204	-
+chr17	73263617	.	del	ACCT	A	NM_001242501(MIF4GD):c.440_441delAG	c.441+1delG	donor_site_exonic_intronic	p.E147Gfs24	222	170	-
+chr17	73263617	.	del	ACCT	A	NM_001242500(MIF4GD):c.542_543delAG	c.543+1delG	donor_site_exonic_intronic	p.E181Gfs24	256	204	-
+chr17	73263617	.	del	ACCT	A	NM_001242498(MIF4GD):c.563_564delAG	c.564+1delG	donor_site_exonic_intronic	p.E188Gfs24	263	211	-
+chr17	16469838	.	del	CT	C	NM_020653(ZNF287):c.501delA		donor_site_exonic	p.E168Nfs2	761	169	-
+chr17	20358615	.	del	CT	C	NM_001042685(LGALS9B):c.540delA		donor_site_exonic	p.K180Nfs36	355	215	-
+chr18	691067	.	del	CCT	C	NM_001126123(ENOSF1):c.291_292delAG		donor_site_exonic	p.K98Afs21	361	118	-
+chr18	691067	.	del	CCT	C	NM_017512(ENOSF1):c.537_538delAG		donor_site_exonic	p.K180Afs21	443	200	-
+chr18	691067	.	del	CCT	C	NM_202758(ENOSF1):c.600_601delAG		donor_site_exonic	p.K201Afs21	450	221	-
+chr19	8555359	.	del	CAG	C	NM_032152(PRAM1):c.1939_1940delCT		donor_site_exonic	p.L647Gfs6	670	652	-
+chr19	54301496	.	del	CCA	C	NM_001277126(NLRP12):c.2929_2930delTG		donor_site_exonic	p.W977Afs2	1062	978	-
+chr19	54301496	.	del	CCA	C	NM_144687(NLRP12):c.2926_2927delTG		donor_site_exonic	p.W976Afs2	1061	977	-
+chr19	55752312	.	del	CAT	C	NM_014931(PPP6R1):c.1295_1296delAT		donor_site_exonic	p.H432Pfs99	881	530	-
+chr2	44116872	.	del	CA	C	NM_133259(LRPPRC):c.4128delT		donor_site_exonic	p.E1377Kfs9	1394	1385	-
+chr2	105896838	.	del	CT	C	NM_001142621(TGFBRAP1):c.1463delA		donor_site_exonic	p.K488Sfs22	860	509	-
+chr2	105896838	.	del	CT	C	NM_004257(TGFBRAP1):c.1463delA		donor_site_exonic	p.K488Sfs22	860	509	-
+chr2	114513030	.	del	CCTTGT	C	NM_025181(SLC35F5):c.129_133delACAAG		donor_site_exonic	p.R44Afs34	523	77	-
+chr2	159107283	.	del	CT	C	NM_001301684(CCDC148):c.814delA		donor_site_exonic	p.I272*	445	271	-
+chr2	159107283	.	del	CT	C	NM_138803(CCDC148):c.1252delA		donor_site_exonic	p.I418*	591	417	-
+chr2	166613556	.	del	CTTGT	C	NM_004482(GALNT3):c.1390_1393delACAA		donor_site_exonic	p.Q464Kfs11	633	474	-
+chr2	176804279	.	del	CCT	C	NM_030650(KIAA1715):c.811_812delAG		donor_site_exonic	p.R271Vfs11	428	281	-
+chr2	176804279	.	del	CCT	C	NM_001305011(KIAA1715):c.442_443delAG		donor_site_exonic	p.R148Vfs11	305	158	-
+chr2	176804279	.	del	CCT	C	NM_001305009(KIAA1715):c.904_905delAG		donor_site_exonic	p.R302Vfs11	459	312	-
+chr2	176804279	.	del	CCT	C	NM_001305008(KIAA1715):c.1009_1010delAG		donor_site_exonic	p.R337Vfs11	494	347	-
+chr2	176804279	.	del	CCT	C	NM_001305010(KIAA1715):c.817_818delAG		donor_site_exonic	p.R273Vfs11	430	283	-
+chr2	220038071	.	del	CCTTTA	C	NM_015680(CNPPD1):c.686_690delTAAAG		donor_site_exonic	p.V229Afs38	410	266	-
+chr20	29993895	.	del	TACCTGGGGTG	T	NM_001011878(DEFB121):c.51_58delCACCCCAG	c.58+1delGT	donor_site_exonic_intronic	p.T18Hfs14	76	31	-
+chr3	53324824	.	del	ACTGGCA	A	NM_018403(DCP1A):c.1441_1445delTGCCA	c.1445+1delG	donor_site_exonic_intronic	p.A481Pfs35	582	515	-
+chr3	53324824	.	del	ACTGGCA	A	NM_001290207(DCP1A):c.964_968delTGCCA	c.968+1delG	donor_site_exonic_intronic	p.A322Pfs35	423	356	-
+chr3	53324824	.	del	ACTGGCA	A	NM_001290206(DCP1A):c.1078_1082delTGCCA	c.1082+1delG	donor_site_exonic_intronic	p.A360Pfs35	461	394	-
+chr3	53324824	.	del	ACTGGCA	A	NM_001290205(DCP1A):c.1225_1229delTGCCA	c.1229+1delG	donor_site_exonic_intronic	p.A409Pfs35	510	443	-
+chr3	53324824	.	del	ACTGGCA	A	NM_001290204(DCP1A):c.1327_1331delTGCCA	c.1331+1delG	donor_site_exonic_intronic	p.A443Pfs35	544	477	-
+chr3	148939429	.	del	CTTACGTGT	C	NM_000096(CP):c.143_146delACAC	c.146+1delGTAA	donor_site_exonic_intronic	p.D48Gfs35	1065	82	-
+chr3	52771601	.	del	CCT	C	NM_001193533(NEK4):c.2165_2166delAG		donor_site_exonic	p.E722Gfs8	752	729	-
+chr3	52771601	.	del	CCT	C	NM_003157(NEK4):c.2432_2433delAG		donor_site_exonic	p.E811Gfs8	841	818	-
+chr3	97664641	.	del	CCT	C	NM_153182(MINA):c.1238_1239delAG		donor_site_exonic	p.E413Vfs19	465	431	-
+chr3	97664641	.	del	CCT	C	NM_001261829(MINA):c.1235_1236delAG		donor_site_exonic	p.E412Vfs19	464	430	-
+chr3	97664641	.	del	CCT	C	NM_032778(MINA):c.1235_1236delAG		donor_site_exonic	p.E412Vfs19	464	430	-
+chr3	97664641	.	del	CCT	C	NM_001042533(MINA):c.1238_1239delAG		donor_site_exonic	p.E413Vfs19	465	431	-
+chr4	76416819	.	del	ACT	A	NM_001278539(RCHY1):c.156delA	c.156+1delG	donor_site_exonic_intronic	p.G53Afs11	134	63	-
+chr4	76416819	.	del	ACT	A	NM_001278538(RCHY1):c.471delA	c.471+1delG	donor_site_exonic_intronic	p.G158Afs11	239	168	-
+chr4	76416819	.	del	ACT	A	NM_001278536(RCHY1):c.417delA	c.417+1delG	donor_site_exonic_intronic	p.G140Afs11	221	150	-
+chr4	76416819	.	del	ACT	A	NM_015436(RCHY1):c.537delA	c.537+1delG	donor_site_exonic_intronic	p.G180Afs11	261	190	-
+chr4	103866348	.	del	ACCCTAATAGAAATG	A	NM_001100874(SLC9B1):c.641_653delCATTTCTATTAGG	c.653+1delG	donor_site_exonic_intronic	p.A214Vfs3	475	216	-
+chr4	103866348	.	del	ACCCTAATAGAAATG	A	NM_139173(SLC9B1):c.641_653delCATTTCTATTAGG	c.653+1delG	donor_site_exonic_intronic	p.A214Vfs3	515	216	-
+chr4	25146395	.	del	CCTTT	C	NM_016955(SEPSECS):c.1023_1026delAAAG		donor_site_exonic	p.E343Cfs8	501	350	-
+chr4	95223296	.	del	CAG	C	NM_014485(HPGDS):c.434_435delCT		donor_site_exonic	p.S145Cfs18	199	162	-
+chr5	132096492	.	del	ACTT	A	NM_001300798(SEPT8):c.1280_1281delAA	c.1281+1delG	donor_site_exonic_intronic	p.K427Sfs64	440	490	-
+chr5	132096492	.	del	ACTT	A	NM_001300799(SEPT8):c.1279_1280delAA	c.1280+1delG	donor_site_exonic_intronic	p.N427Lfs30	427	456	-
+chr5	132096492	.	del	ACTT	A	NM_001098813(SEPT8):c.1105_1106delAA	c.1106+1delG	donor_site_exonic_intronic	p.N369Lfs30	369	398	-
+chr5	132096492	.	del	ACTT	A	NM_001098811(SEPT8):c.1285_1286delAA	c.1286+1delG	donor_site_exonic_intronic	p.N429Qfs16	483	444	-
+chr5	132096492	.	del	ACTT	A	NM_015146(SEPT8):c.1285_1286delAA	c.1286+1delG	donor_site_exonic_intronic	p.N429Lfs30	429	458	-
+chr5	132096492	.	del	ACTT	A	NM_001098812(SEPT8):c.1286_1287delAA	c.1287+1delG	donor_site_exonic_intronic	p.K429Sfs64	442	492	-
+chr6	32184929	.	del	CCTGGGAGA	C	NM_004557(NOTCH4):c.1731_1738delTCTCCCAG		donor_site_exonic	p.C577Wfs2	2003	578	-
+chr6	136560603	.	del	CCGCT	C	NM_001099286(MTFR2):c.866_869delAGCG		donor_site_exonic	p.E289Gfs22	385	310	-
+chr6	136560603	.	del	CCGCT	C	NM_138419(MTFR2):c.866_869delAGCG		donor_site_exonic	p.E289Gfs22	385	310	-
+chr7	102119253	.	del	ACTT	A	NM_006234(POLR2J):c.52_53delAA	c.53+1delG	donor_site_exonic_intronic	p.K18Dfs3	117	20	-
+chr7	144098960	.	del	ACCCCTTGTGAGTTC	A	NM_001080413(NOBOX):c.281_293delGAACTCACAAGGG	c.293+1delG	donor_site_exonic_intronic	p.E94Afs75	691	168	-
+chr7	29103676	.	del	CCTTAT	C	NM_031311(CPVL):c.1133_1137delATAAG		donor_site_exonic	p.Y378Cfs43	476	420	-
+chr7	29103676	.	del	CCTTAT	C	NM_019029(CPVL):c.1133_1137delATAAG		donor_site_exonic	p.Y378Cfs43	476	420	-
+chr8	41543669	.	del	CTGTT	C	NM_020477(ANK1):c.4387_4390delAACA		donor_site_exonic	p.N1463Wfs16	1719	1478	-
+chr8	41543669	.	del	CTGTT	C	NM_020476(ANK1):c.4387_4390delAACA		donor_site_exonic	p.N1463Wfs16	1881	1478	-
+chr8	41543669	.	del	CTGTT	C	NM_000037(ANK1):c.4387_4390delAACA		donor_site_exonic	p.N1463Wfs16	1880	1478	-
+chr8	41543669	.	del	CTGTT	C	NM_020475(ANK1):c.4387_4390delAACA		donor_site_exonic	p.N1463Wfs16	1856	1478	-
+chr8	41543669	.	del	CTGTT	C	NM_001142446(ANK1):c.4510_4513delAACA		donor_site_exonic	p.N1504Wfs16	1897	1519	-
+chr8	125527986	.	del	CTTGAG	C	NM_001146160(TATDN1):c.244_248delCTCAA		donor_site_exonic	p.L82Ifs2	250	83	-
+chr8	125527986	.	del	CTTGAG	C	NM_032026(TATDN1):c.385_389delCTCAA		donor_site_exonic	p.L129Ifs2	297	130	-
+chr9	26884805	.	del	TACTG	T	NM_001167575(CAAP1):c.229_230delCA	c.230+1delGT	donor_site_exonic_intronic	p.Q77Afs14	216	90	-
+chr9	26884805	.	del	TACTG	T	NM_024828(CAAP1):c.664_665delCA	c.665+1delGT	donor_site_exonic_intronic	p.Q222Afs14	361	235	-
+chr11	47746326	.	del	AGAACCT	A	NM_015308(FNBP4):c.2009_2012delGTTC	c.2009-2delAG	acceptor_site_exonic_intronic	p.G670Vfs69	1017	738	-
+chr9	35812098	.	del	CACCGCG	C	NM_001039592(SPAG8):c.41_44delCGCG	c.44+1delGT	donor_site_exonic_intronic	p.S14Yfs2	485	15	-
+chr9	35812098	.	del	CACCGCG	C	NM_172312(SPAG8):c.41_44delCGCG	c.44+1delGT	donor_site_exonic_intronic	p.S14Yfs2	501	15	-
+chr9	4719134	.	del	CCA	C	NM_016282(AK3):c.443_444delTG		donor_site_exonic	p.V148Gfs2	227	149	-
+chr9	4719134	.	del	CCA	C	NM_001199856(AK3):c.233_234delTG		donor_site_exonic	p.V78Gfs2	157	79	-
+chr9	4719134	.	del	CCA	C	NM_001199855(AK3):c.233_234delTG		donor_site_exonic	p.V78Gfs2	157	79	-
+chr9	4719134	.	del	CCA	C	NM_001199853(AK3):c.233_234delTG		donor_site_exonic	p.V78Gfs2	157	79	-
+chr9	4719134	.	del	CCA	C	NM_001199852(AK3):c.323_324delTG		donor_site_exonic	p.V108Gfs2	187	109	-
+chr1	1451466	.	del	AAAG	A	NM_018188(ATAD3A):c.282_283delAA	c.283+1delG	donor_site_exonic_intronic	p.K94Nfs36	634	129	+
+chr1	1451466	.	del	AAAG	A	NM_001170536(ATAD3A):c.44_45delAA	c.45+1delG	donor_site_exonic_intronic	p.K15Rfs2	507	16	+
+chr1	1451466	.	del	AAAG	A	NM_001170535(ATAD3A):c.281_282delAA	c.282+1delG	donor_site_exonic_intronic	p.K94Rfs2	586	95	+
+chr11	73686703	.	del	GCAAGGGAGGTCATCTGC	G	NM_003355(UCP2):c.635_647delATGACCTCCCTTG	c.635-4delGCAG	acceptor_site_exonic_intronic	p.D212Afs19	309	230	-
+chr1	218607555	.	del	AGGTTAC	A	NM_001135599(TGFB2):c.727delG	c.727+1delGTTAC	donor_site_exonic_intronic	p.D243Tfs7	442	249	+
+chr1	218607555	.	del	AGGTTAC	A	NM_003238(TGFB2):c.643delG	c.643+1delGTTAC	donor_site_exonic_intronic	p.D215Tfs7	414	221	+
+chr11	64004692	.	del	CAGGT	C	NM_003377(VEGFB):c.409_410delAG	c.410+1delGT	donor_site_exonic_intronic	p.R137Gfs26	207	162	+
+chr11	64004692	.	del	CAGGT	C	NM_001243733(VEGFB):c.409_410delAG	c.410+1delGT	donor_site_exonic_intronic	p.S137Pfs15	188	151	+
+chr11	126160855	.	del	TGG	T	NM_001039661(TIRAP):c.67delG	c.67+1delG	donor_site_exonic_intronic	p.D23Tfs7	221	29	+
+chr11	126160855	.	del	TGG	T	NM_148910(TIRAP):c.67delG	c.67+1delG	donor_site_exonic_intronic	p.D23Tfs7	235	29	+
+chr12	133266954	.	del	CGTTTACGGGTGAGTGCCATACAAGGGGTG	C	NM_018663(PXMP2):c.232_239delGTTTACGG	c.239+1delGTGAGTGCCATACAAGGGGTG	donor_site_exonic_intronic	p.Y78Lfs20	195	97	+
+chr14	21462215	.	del	ACTGAAAGGTGAGTGCAAGAGCACTTCC	A	NM_001029991(METTL17):c.691_697delCTGAAAG	c.697+1delGTGAGTGCAAGAGCACTTCC	donor_site_exonic_intronic	p.L231Vfs28	478	258	+
+chr12	6140736	.	del	GCAGTAATCCT	G	NM_000552(VWF):c.2686_2693delGATTACTG	c.2686-2delAG	acceptor_site_exonic_intronic	p.D896Rfs2	2813	897	-
+chr14	21462215	.	del	ACTGAAAGGTGAGTGCAAGAGCACTTCC	A	NM_022734(METTL17):c.691_697delCTGAAAG	c.697+1delGTGAGTGCAAGAGCACTTCC	donor_site_exonic_intronic	p.L231Vfs28	456	258	+
+chr15	45443444	.	del	GAAGT	G	NM_017434(DUOX1):c.3013_3014delAA	c.3014+1delGT	donor_site_exonic_intronic	p.K1005Gfs10	1551	1014	+
+chr15	45443444	.	del	GAAGT	G	NM_175940(DUOX1):c.3013_3014delAA	c.3014+1delGT	donor_site_exonic_intronic	p.K1005Gfs10	1551	1014	+
+chr15	91334067	.	del	TATAATGAGTAA	T	NM_000057(BLM):c.3013_3019delATAATGA	c.3019+1delGTAA	donor_site_exonic_intronic	p.I1005Wfs26	1417	1030	+
+chr15	91334067	.	del	TATAATGAGTAA	T	NM_001287248(BLM):c.1888_1894delATAATGA	c.1894+1delGTAA	donor_site_exonic_intronic	p.I630Wfs26	1042	655	+
+chr15	91334067	.	del	TATAATGAGTAA	T	NM_001287247(BLM):c.3013_3019delATAATGA	c.3019+1delGTAA	donor_site_exonic_intronic	p.I1005Wfs26	1286	1030	+
+chr15	91334067	.	del	TATAATGAGTAA	T	NM_001287246(BLM):c.3013_3019delATAATGA	c.3019+1delGTAA	donor_site_exonic_intronic	p.I1005Wfs26	1417	1030	+
+chr18	43705753	.	del	AACTAGTAAGTAGT	A	NM_138443(HAUS1):c.783_786delACTA	c.786+1delGTAAGTAGT	donor_site_exonic_intronic	p.L262Ifs10	278	271	+
+chr12	50589669	.	del	ATCTAC	A	NM_001113547(LIMA1):c.493delA	c.493-4delGTAG	acceptor_site_exonic_intronic	p.I165Ffs37	600	201	-
+chr2	25016826	.	del	CCAAAGGAGGTATT	C	NM_024322(CENPO):c.39_46delCAAAGGAG	c.46+1delGTATT	donor_site_exonic_intronic	p.K14Cfs16	300	29	+
+chr21	46924416	.	del	CGGCCCCCCCGGCCCCCCA	C	NM_130445(COL18A1):c.2816_2825delGGCCCCCCCG	c.2825+1delGCCCCCCA	donor_site_exonic_intronic	p.G939Afs85	1336	1023	+
+chr21	46924416	.	del	CGGCCCCCCCGGCCCCCCA	C	NM_030582(COL18A1):c.3356_3365delGGCCCCCCCG	c.3365+1delGCCCCCCA	donor_site_exonic_intronic	p.G1119Afs85	1516	1203	+
+chr21	46924416	.	del	CGGCCCCCCCGGCCCCCCA	C	NM_130444(COL18A1):c.4061_4070delGGCCCCCCCG	c.4070+1delGCCCCCCA	donor_site_exonic_intronic	p.G1354Afs85	1751	1438	+
+chr3	158371254	.	del	GGAGT	G	NM_001308166(GFM1):c.997_998delGA	c.998+1delGT	donor_site_exonic_intronic	p.D333*	591	332	+
+chr3	158371254	.	del	GGAGT	G	NM_024996(GFM1):c.997_998delGA	c.998+1delGT	donor_site_exonic_intronic	p.D333*	751	332	+
+chr3	158371254	.	del	GGAGT	G	NM_001308164(GFM1):c.1054_1055delGA	c.1055+1delGT	donor_site_exonic_intronic	p.D352*	770	351	+
+chr12	50589669	.	del	ATCTAC	A	NM_001113546(LIMA1):c.973delA	c.973-4delGTAG	acceptor_site_exonic_intronic	p.I325Ffs37	760	361	-
+chr5	75973174	.	del	CAG	C	NM_001285460(IQGAP2):c.3510delA	c.3510+1delG	donor_site_exonic_intronic	p.L1171Sfs16	1525	1186	+
+chr5	75973174	.	del	CAG	C	NM_006633(IQGAP2):c.3660delA	c.3660+1delG	donor_site_exonic_intronic	p.L1221Sfs16	1575	1236	+
+chr5	75973174	.	del	CAG	C	NM_001285462(IQGAP2):c.2148delA	c.2148+1delG	donor_site_exonic_intronic	p.L717Sfs16	1071	732	+
+chr5	75973174	.	del	CAG	C	NM_001285461(IQGAP2):c.2148delA	c.2148+1delG	donor_site_exonic_intronic	p.L717Sfs16	1071	732	+
+chr6	25450206	.	del	CTGAGCAGGGCCCCTGTGG	C	NM_001173977(LRRC16A):c.453_469delTGAGCAGGGCCCCTGTG	c.469+1delG	donor_site_exonic_intronic	p.E152Wfs10	1365	161	+
+chr12	50589669	.	del	ATCTAC	A	NM_016357(LIMA1):c.973delA	c.973-4delGTAG	acceptor_site_exonic_intronic	p.I325Ffs36	759	360	-
+chr6	25450206	.	del	CTGAGCAGGGCCCCTGTGG	C	NM_017640(LRRC16A):c.453_469delTGAGCAGGGCCCCTGTG	c.469+1delG	donor_site_exonic_intronic	p.E152Wfs10	1371	161	+
+chr6	31639054	.	del	CTATTATGGTAAA	C	NM_021221(LY6G5B):c.181_187delTATTATG	c.187+1delGTAAA	donor_site_exonic_intronic	p.Y61Mfs77	201	137	+
+chr7	2617981	.	del	CCCAGCCGCG	C	NM_001287499(IQCE):c.572_579delCCAGCCGC	c.579+1delG	donor_site_exonic_intronic	p.P191Rfs19	702	209	+
+chr7	2617981	.	del	CCCAGCCGCG	C	NM_001287500(IQCE):c.524_531delCCAGCCGC	c.531+1delG	donor_site_exonic_intronic	p.P175Rfs19	686	193	+
+chr7	2617981	.	del	CCCAGCCGCG	C	NM_152558(IQCE):c.572_579delCCAGCCGC	c.579+1delG	donor_site_exonic_intronic	p.P191Rfs19	695	209	+
+chr7	2617981	.	del	CCCAGCCGCG	C	NM_001287501(IQCE):c.377_384delCCAGCCGC	c.384+1delG	donor_site_exonic_intronic	p.P126Rfs19	630	144	+
+chr7	2617981	.	del	CCCAGCCGCG	C	NM_001287502(IQCE):c.377_384delCCAGCCGC	c.384+1delG	donor_site_exonic_intronic	p.P126Rfs19	637	144	+
+chr8	145736279	.	del	CCCTGCAGGTGA	C	NM_138431(MFSD3):c.1059_1065delCCTGCAG	c.1065+1delGTGA	donor_site_exonic_intronic	p.L354Pfs50	412	403	+
+chr9	131696134	.	del	AAGGT	A	NM_001100877(PHYHD1):c.267_268delAG	c.268+1delGT	donor_site_exonic_intronic	p.G90Kfs40	270	129	+
+chr12	50589669	.	del	ATCTAC	A	NM_001243775(LIMA1):c.67delA	c.67-4delGTAG	acceptor_site_exonic_intronic	p.I23Ffs36	457	58	-
+chr9	131696134	.	del	AAGGT	A	NM_001100876(PHYHD1):c.267_268delAG	c.268+1delGT	donor_site_exonic_intronic	p.G90Kfs54	291	143	+
+chr9	131696134	.	del	AAGGT	A	NM_174933(PHYHD1):c.267_268delAG	c.268+1delGT	donor_site_exonic_intronic	p.G90Kfs54	297	143	+
+chr1	10471472	.	del	CAGGT	C	NM_001304451(PGD):c.455_456delGT	c.455-2delAG	acceptor_site_exonic_intronic	p.V152Gfs2	461	153	+
+chr1	10471472	.	del	CAGGT	C	NM_002631(PGD):c.521_522delGT	c.521-2delAG	acceptor_site_exonic_intronic	p.V174Gfs2	483	175	+
+chr1	10471472	.	del	CAGGT	C	NM_001304452(PGD):c.482_483delGT	c.482-2delAG	acceptor_site_exonic_intronic	p.V161Gfs2	470	162	+
+chr1	185984284	.	del	TTTGTAGTTCCA	T	NM_031935(HMCN1):c.4631_4635delTTCCA	c.4631-6delTTGTAG	acceptor_site_exonic_intronic	p.I1544Tfs1	5635	1544	+
+chr10	38306209	.	del	CTGTTAACAGGGTATTG	C	NM_006974(ZNF33A):c.155_161delGGTATTG	c.155-9delTGTTAACAG	acceptor_site_exonic_intronic	p.G52Vfs6	810	57	+
+chr10	38306209	.	del	CTGTTAACAGGGTATTG	C	NM_001278177(ZNF33A):c.218_224delGGTATTG	c.218-9delTGTTAACAG	acceptor_site_exonic_intronic	p.G73Vfs6	832	78	+
+chr10	38306209	.	del	CTGTTAACAGGGTATTG	C	NM_001278173(ZNF33A):c.209_215delGGTATTG	c.209-9delTGTTAACAG	acceptor_site_exonic_intronic	p.G70Vfs6	829	75	+
+chr10	38306209	.	del	CTGTTAACAGGGTATTG	C	NM_006954(ZNF33A):c.155_161delGGTATTG	c.155-9delTGTTAACAG	acceptor_site_exonic_intronic	p.G52Vfs6	811	57	+
+chr10	38306209	.	del	CTGTTAACAGGGTATTG	C	NM_001278170(ZNF33A):c.176_182delGGTATTG	c.176-9delTGTTAACAG	acceptor_site_exonic_intronic	p.G59Vfs6	817	64	+
+chr11	26574788	.	del	TTCTCAAGC	T	NM_031418(ANO3):c.1291delC	c.1291-7delTCTCAAG	acceptor_site_exonic_intronic	p.Q431Kfs32	981	462	+
+chr11	63585996	.	del	CAGCTGT	C	NM_138471(C11orf84):c.609_612delCTGT	c.609-2delAG	acceptor_site_exonic_intronic	p.V204Lfs31	381	234	+
+chr11	64056072	.	del	CAGAGCA	C	NM_001170880(GPR137):c.913_916delAGCA	c.913-2delAG	acceptor_site_exonic_intronic	p.S305Pfs43	396	347	+
+chr11	64056072	.	del	CAGAGCA	C	NM_020155(GPR137):c.913_916delAGCA	c.913-2delAG	acceptor_site_exonic_intronic	p.S305Pfs?156	417	460	+
+chr11	64056072	.	del	CAGAGCA	C	NM_001170881(GPR137):c.763_766delAGCA	c.763-2delAG	acceptor_site_exonic_intronic	p.S255Pfs43	346	297	+
+chr11	64056072	.	del	CAGAGCA	C	NM_001170726(GPR137):c.1087_1090delAGCA	c.1087-2delAG	acceptor_site_exonic_intronic	p.S363Pfs?156	475	518	+
+chr11	65348523	.	del	TCCCAGATCCCTCTCGAGAGCTGAA	T	NM_001099409(EHBP1L1):c.635_653delATCCCTCTCGAGAGCTGAA	c.635-5delCCCAG	acceptor_site_exonic_intronic	p.D212Gfs31	1523	242	+
+chr11	85606334	.	del	AGAACACTAT	A	NM_173556(CCDC83):c.514_521delAACACTAT	c.514-1delG	acceptor_site_exonic_intronic	p.H172Nfs6	444	177	+
+chr11	85606334	.	del	AGAACACTAT	A	NM_001286159(CCDC83):c.514_521delAACACTAT	c.514-1delG	acceptor_site_exonic_intronic	p.H172Nfs6	413	177	+
+chr12	106820972	.	del	TAGC	T	NM_001160708(POLR3B):c.928delC	c.928-2delAG	acceptor_site_exonic_intronic	p.L310Ffs16	1075	325	+
+chr12	106820972	.	del	TAGC	T	NM_018082(POLR3B):c.1102delC	c.1102-2delAG	acceptor_site_exonic_intronic	p.L368Ffs16	1133	383	+
+chr13	52249301	.	del	TTCAGC	T	NM_052950(WDFY2):c.206delC	c.206-4delTCAG	acceptor_site_exonic_intronic	p.S69Ffs16	400	84	+
+chr14	78390789	.	del	TTCTCTTTCAGA	T	NM_020421(ADCK1):c.859delA	c.859-10delTCTCTTTCAG	acceptor_site_exonic_intronic	p.I287Sfs11	523	297	+
+chr14	78390789	.	del	TTCTCTTTCAGA	T	NM_001142545(ADCK1):c.655delA	c.655-10delTCTCTTTCAG	acceptor_site_exonic_intronic	p.I219Sfs11	455	229	+
+chr15	101601371	.	del	TACAGGA	T	NM_024652(LRRK1):c.4680_4681delGA	c.4680-4delACAG	acceptor_site_exonic_intronic	p.N1561Lfs75	2015	1635	+
+chr14	23457219	.	del	AGGCTCCT	A	NM_001130708(C14orf93):c.1085_1089delGAGCC	c.1085-2delAG	acceptor_site_exonic_intronic	p.G362Vfs7	538	368	-
+chr19	14580562	.	del	AGCTTTTATTCCG	A	NM_002741(PKN1):c.2155_2165delCTTTTATTCCG	c.2155-1delG	acceptor_site_exonic_intronic	p.F719Lfs62	942	780	+
+chr19	14580562	.	del	AGCTTTTATTCCG	A	NM_213560(PKN1):c.2173_2183delCTTTTATTCCG	c.2173-1delG	acceptor_site_exonic_intronic	p.F725Lfs62	948	786	+
+chr19	39998887	.	del	TCTAGGC	T	NM_203486(DLL3):c.1759_1760delGC	c.1759-4delCTAG	acceptor_site_exonic_intronic	p.A587Lfs46	587	632	+
+chr14	23457219	.	del	AGGCTCCT	A	NM_001130706(C14orf93):c.1085_1089delGAGCC	c.1085-2delAG	acceptor_site_exonic_intronic	p.G362Vfs7	538	368	-
+chr20	30070085	.	del	TGCAGGATAAAA	T	NM_014012(REM1):c.425_431delGATAAAA	c.425-4delGCAG	acceptor_site_exonic_intronic	p.D142Afs120	298	261	+
+chr21	46020662	.	del	CGCCCCCAGCTGCTGC	C	NM_198689(KRTAP10-7):c.135_141delCTGCTGC	c.135-8delGCCCCCAG	acceptor_site_exonic_intronic	p.C46Pfs5	370	50	+
+chr22	50315935	.	del	CCCTCAGCAGTCAGGACCGGCCTCTCCGATTCTTACCCG	C	NM_001135101(CRELD2):c.593_621delTCAGGACCGGCCTCTCCGATTCTTACCCG	c.593-9delCCTCAGCAG	acceptor_site_exonic_intronic	p.V198Afs41	402	238	+
+chr3	49568228	.	del	AGGT	A	NM_004393(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177644(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177643(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177642(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177641(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr14	23457219	.	del	AGGCTCCT	A	NM_001282970(C14orf93):c.1085_1089delGAGCC	c.1085-2delAG	acceptor_site_exonic_intronic	p.G362Vfs7	498	368	-
+chr3	49568228	.	del	AGGT	A	NM_001177640(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177639(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177638(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177637(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177636(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177635(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001177634(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr3	49568228	.	del	AGGT	A	NM_001165928(DAG1):c.286_287delGT	c.286-1delG	acceptor_site_exonic_intronic	p.V96Ifs26	895	121	+
+chr4	44688505	.	del	ACTTTTTACTTATATTTACTAGTC	A	NM_021927(GUF1):c.735_736delTC	c.735-21delCTTTTTACTTATATTTACTAG	acceptor_site_exonic_intronic	p.P246*	669	245	+
+chr4	148554914	.	del	AGGATT	A	NM_018241(TMEM184C):c.880_883delGATT	c.880-1delG	acceptor_site_exonic_intronic	p.D294Lfs52	438	345	+
+chr14	23457219	.	del	AGGCTCCT	A	NM_001282969(C14orf93):c.545_549delGAGCC	c.545-2delAG	acceptor_site_exonic_intronic	p.G182Vfs7	358	188	-
+chr6	126295958	.	del	TGGTTTGTCAATCATCTCTTTACTTTCTATTTTAGGATG	T	NM_138571(HINT3):c.391_394delGATG	c.391-34delGGTTTGTCAATCATCTCTTTACTTTCTATTTTAG	acceptor_site_exonic_intronic	p.M131Vfs44	182	174	+
+chr8	100844594	.	del	TAGTA	T	NM_017890(VPS13B):c.9407_9408delTA	c.9407-2delAG	acceptor_site_exonic_intronic	p.Y3136Ffs9	4022	3144	+
+chr8	100844594	.	del	TAGTA	T	NM_152564(VPS13B):c.9332_9333delTA	c.9332-2delAG	acceptor_site_exonic_intronic	p.Y3111Ffs9	3997	3119	+
+chr1	1268502	.	del	CAGGTG	C	NM_152228(TAS1R3):c.1479_1480delAG	c.1480+1delGTG	donor_site_exonic_intronic	p.K494Afs50	852	543	+
+chr1	25667069	.	del	TAGTA	T	NM_014313(TMEM50A):c.93delA	c.93+1delGTA	donor_site_exonic_intronic	p.F33Lfs7	157	39	+
+chr1	62614060	.	del	AGAGT	A	NM_176877(INADL):c.5378_5379delGA	c.5379+1delGT	donor_site_exonic_intronic	p.E1793Gfs48	1801	1840	+
+chr1	70509775	.	del	AAAGT	A	NM_020794(LRRC7):c.3996_3997delAA	c.3997+1delGT	donor_site_exonic_intronic	p.K1332Nfs18	1537	1349	+
+chr1	84961134	.	del	TTAAGG	T	NM_025065(RPF1):c.696_699delTAAG	c.699+1delG	donor_site_exonic_intronic	p.K233Efs12	349	244	+
+chr14	23457219	.	del	AGGCTCCT	A	NM_001282968(C14orf93):c.545_549delGAGCC	c.545-2delAG	acceptor_site_exonic_intronic	p.G182Vfs7	358	188	-
+chr1	146747129	.	del	CAAGT	C	NM_004284(CHD1L):c.1384_1385delAA	c.1385+1delGT	donor_site_exonic_intronic	p.K462Vfs2	897	463	+
+chr1	146747129	.	del	CAAGT	C	NM_001256337(CHD1L):c.541_542delAA	c.542+1delGT	donor_site_exonic_intronic	p.K181Vfs2	616	182	+
+chr1	146747129	.	del	CAAGT	C	NM_001256338(CHD1L):c.772_773delAA	c.773+1delGT	donor_site_exonic_intronic	p.K258Vfs2	693	259	+
+chr1	146747129	.	del	CAAGT	C	NM_001256336(CHD1L):c.1084_1085delAA	c.1085+1delGT	donor_site_exonic_intronic	p.K362Vfs2	797	363	+
+chr1	146747129	.	del	CAAGT	C	NM_024568(CHD1L):c.1045_1046delAA	c.1046+1delGT	donor_site_exonic_intronic	p.K349Vfs2	784	350	+
+chr1	170931112	.	del	TTAAAGG	T	NM_001163629(MROH9):c.371_375delTAAAG	c.375+1delG	donor_site_exonic_intronic	p.L124*	861	123	+
+chr1	170931112	.	del	TTAAAGG	T	NM_025063(MROH9):c.371_375delTAAAG	c.375+1delG	donor_site_exonic_intronic	p.L124*	573	123	+
+chr1	179853902	.	del	CAGGTAAGAAT	C	NM_015602(TOR1AIP1):c.552_553delAG	c.553+1delGTAAGAAT	donor_site_exonic_intronic	p.V185Efs1	583	185	+
+chr1	179853902	.	del	CAGGTAAGAAT	C	NM_001267578(TOR1AIP1):c.552_553delAG	c.553+1delGTAAGAAT	donor_site_exonic_intronic	p.A185Sfs2	584	186	+
+chr14	23457219	.	del	AGGCTCCT	A	NM_021944(C14orf93):c.1085_1089delGAGCC	c.1085-2delAG	acceptor_site_exonic_intronic	p.G362Vfs7	538	368	-
+chr10	29580934	.	del	CTG	C	NM_032517(LYZL1):c.277delT	c.277+1delG	donor_site_exonic_intronic	p.W93Gfs41	194	133	+
+chr10	91518638	.	del	TAGTC	T	NM_016195(KIF20B):c.4560delA	c.4560+1delGTC	donor_site_exonic_intronic	p.I1520Mfs36	1780	1555	+
+chr10	91518638	.	del	TAGTC	T	NM_001284259(KIF20B):c.4680delA	c.4680+1delGTC	donor_site_exonic_intronic	p.I1560Mfs36	1820	1595	+
+chr10	95658506	.	del	AAAGT	A	NM_153226(SLC35G1):c.357_358delAA	c.358+1delGT	donor_site_exonic_intronic	p.K119Nfs37	364	155	+
+chr10	95658506	.	del	AAAGT	A	NM_001134658(SLC35G1):c.360_361delAA	c.361+1delGT	donor_site_exonic_intronic	p.K120Nfs37	365	156	+
+chr10	121551155	.	del	AAAGT	A	NM_001243195(INPP5F):c.443_444delAA	c.444+1delGT	donor_site_exonic_intronic	p.K148Sfs1	219	148	+
+chr10	121551155	.	del	AAAGT	A	NM_014937(INPP5F):c.443_444delAA	c.444+1delGT	donor_site_exonic_intronic	p.K148Sfs1	1132	148	+
+chr14	77746270	.	del	ACCT	A	NM_013382(POMT2):c.1786delG	c.1786-2delAG	acceptor_site_exonic_intronic	p.V596Wfs4	750	599	-
+chr11	63277972	.	del	ATG	A	NM_001142537(LGALS12):c.414delT	c.414+1delG	donor_site_exonic_intronic	p.P139Lfs3	275	141	+
+chr11	63277972	.	del	ATG	A	NM_001142538(LGALS12):c.414delT	c.414+1delG	donor_site_exonic_intronic	p.H138Qfs19	266	156	+
+chr11	63277972	.	del	ATG	A	NM_033101(LGALS12):c.597delT	c.597+1delG	donor_site_exonic_intronic	p.P200Lfs3	336	202	+
+chr11	63277972	.	del	ATG	A	NM_001142536(LGALS12):c.597delT	c.597+1delG	donor_site_exonic_intronic	p.H199Qfs19	327	217	+
+chr11	63277972	.	del	ATG	A	NM_001142535(LGALS12):c.600delT	c.600+1delG	donor_site_exonic_intronic	p.P201Lfs3	337	203	+
+chr11	73371886	.	del	CGCCCTACGCAGG	C	NM_021200(PLEKHB1):c.590_600delGCCCTACGCAG	c.600+1delG	donor_site_exonic_intronic	p.Y197Wfs82	243	278	+
+chr11	73371886	.	del	CGCCCTACGCAGG	C	NM_001130036(PLEKHB1):c.428_438delGCCCTACGCAG	c.438+1delG	donor_site_exonic_intronic	p.Y143Wfs82	189	224	+
+chr15	45393032	.	del	GGGAGCTGAGAAAAAGAAA	G	NM_014080(DUOX2):c.2923_2926delCTCC	c.2923-14delTTTCTTTTTCTCAG	acceptor_site_exonic_intronic	p.S975Tfs19	1548	993	-
+chr11	73371886	.	del	CGCCCTACGCAGG	C	NM_001130035(PLEKHB1):c.428_438delGCCCTACGCAG	c.438+1delG	donor_site_exonic_intronic	p.Y143Wfs82	189	224	+
+chr11	73371886	.	del	CGCCCTACGCAGG	C	NM_001130034(PLEKHB1):c.533_543delGCCCTACGCAG	c.543+1delG	donor_site_exonic_intronic	p.Y178Wfs82	224	259	+
+chr11	73371886	.	del	CGCCCTACGCAGG	C	NM_001130033(PLEKHB1):c.485_495delGCCCTACGCAG	c.495+1delG	donor_site_exonic_intronic	p.Y162Wfs82	208	243	+
+chr11	112064715	.	del	AAGGTAAAGTAC	A	NM_001256400(BCO2):c.317_318delAG	c.318+1delGTAAAGTAC	donor_site_exonic_intronic	p.K106Sfs18	474	123	+
+chr11	112064715	.	del	AAGGTAAAGTAC	A	NM_001037290(BCO2):c.530_531delAG	c.531+1delGTAAAGTAC	donor_site_exonic_intronic	p.K177Sfs18	545	194	+
+chr11	112064715	.	del	AAGGTAAAGTAC	A	NM_001256397(BCO2):c.530_531delAG	c.531+1delGTAAAGTAC	donor_site_exonic_intronic	p.K177Sfs18	539	194	+
+chr11	112064715	.	del	AAGGTAAAGTAC	A	NM_031938(BCO2):c.632_633delAG	c.633+1delGTAAAGTAC	donor_site_exonic_intronic	p.K211Sfs18	579	228	+
+chr11	134009809	.	del	AAAGT	A	NM_032801(JAM3):c.141_142delAA	c.142+1delGT	donor_site_exonic_intronic	p.S48Cfs13	310	60	+
+chr11	134009809	.	del	AAAGT	A	NM_001205329(JAM3):c.141_142delAA	c.142+1delGT	donor_site_exonic_intronic	p.S48Cfs13	259	60	+
+chr16	84215064	.	del	CGCAGCCTTGGGGAGACAG	C	NM_001243158(TAF1C):c.112_116delGCTGC	c.112-13delCTGTCTCCCCAAG	acceptor_site_exonic_intronic	p.L38Afs6	537	43	-
+chr12	40677933	.	del	CAAGT	C	NM_198578(LRRK2):c.2500_2501delAA	c.2501+1delGT	donor_site_exonic_intronic	p.N834Yfs31	2527	864	+
+chr12	56629483	.	del	CAGTG	C	NM_001135195(SLC39A5):c.946delA	c.946+1delGTG	donor_site_exonic_intronic	p.R316Dfs86	540	401	+
+chr12	56629483	.	del	CAGTG	C	NM_173596(SLC39A5):c.946delA	c.946+1delGTG	donor_site_exonic_intronic	p.R316Dfs86	540	401	+
+chr16	84215064	.	del	CGCAGCCTTGGGGAGACAG	C	NM_005679(TAF1C):c.1108_1112delGCTGC	c.1108-13delCTGTCTCCCCAAG	acceptor_site_exonic_intronic	p.L370Afs6	869	375	-
+chr12	80943505	.	del	CTGAAACAGGTAACTAACG	C	NM_001145026(PTPRQ):c.3763_3770delTGAAACAG	c.3770+1delGTAACTAACG	donor_site_exonic_intronic	p.E1255Sfs10	2127	1264	+
+chr12	100729682	.	del	AGAGT	A	NM_017988(SCYL2):c.2025_2026delGA	c.2026+1delGT	donor_site_exonic_intronic	p.R675Sfs5	929	679	+
+chr12	104060130	.	del	CAGTG	C	NM_017564(STAB2):c.2085delA	c.2085+1delGTG	donor_site_exonic_intronic	p.A696Hfs15	2551	710	+
+chr12	108086675	.	del	CAGTA	C	NM_007062(PWP1):c.405delA	c.405+1delGTA	donor_site_exonic_intronic	p.E136Nfs8	501	143	+
+chr13	23778027	.	del	CAGTA	C	NM_000231(SGCG):c.195delA	c.195+1delGTA	donor_site_exonic_intronic	p.A66Qfs7	291	72	+
+chr13	33268439	.	del	AAAGT	A	NM_015032(PDS5B):c.1551_1552delAA	c.1552+1delGT	donor_site_exonic_intronic	p.K517Nfs20	1447	536	+
+chr13	76287387	.	del	GAGTA	G	NM_005358(LMO7):c.296delA	c.296+1delGTA	donor_site_exonic_intronic	p.D99Vfs1	1349	99	+
+chr13	76287387	.	del	GAGTA	G	NM_001306080(LMO7):c.140delA	c.140+1delGTA	donor_site_exonic_intronic	p.D47Vfs1	1631	47	+
+chr16	84215064	.	del	CGCAGCCTTGGGGAGACAG	C	NM_139353(TAF1C):c.829_833delGCTGC	c.829-13delCTGTCTCCCCAAG	acceptor_site_exonic_intronic	p.L277Afs6	775	282	-
+chr13	114503875	.	del	GCCTGCGGGAGGTGAGGGGCACCGGGGACCCCCATATCTACACCTGCGGGAGGTGAGGGGCGCTGGGGACCCCCGTATCTACA	G	NM_182614(TMEM255B):c.501_510delCCTGCGGGAG	c.510+1delGTGAGGGGCACCGGGGACCCCCATATCTACACCTGCGGGAGGTGAGGGGCGCTGGGGACCCCCGTATCTACA	donor_site_exonic_intronic	p.C168Qfs31	326	198	+
+chr14	37969341	.	del	AAAGT	A	NM_001195297(MIPOL1):c.1261_1262delAA	c.1262+1delGT	donor_site_exonic_intronic	p.K421Vfs45	442	465	+
+chr14	37969341	.	del	AAAGT	A	NM_001195296(MIPOL1):c.1261_1262delAA	c.1262+1delGT	donor_site_exonic_intronic	p.K421Vfs45	442	465	+
+chr14	37969341	.	del	AAAGT	A	NM_138731(MIPOL1):c.1261_1262delAA	c.1262+1delGT	donor_site_exonic_intronic	p.K421Vfs45	442	465	+
+chr14	57051749	.	del	GAGTA	G	NM_017799(TMEM260):c.192delA	c.192+1delGTA	donor_site_exonic_intronic	p.V65Lfs39	707	103	+
+chr14	71575761	.	del	CAAGT	C	NM_014982(PCNX):c.6744_6745delAA	c.6745+1delGT	donor_site_exonic_intronic	p.Q2248Hfs14	2341	2261	+
+chr14	71575761	.	del	CAAGT	C	NM_001308160(PCNX):c.6411_6412delAA	c.6412+1delGT	donor_site_exonic_intronic	p.Q2137Hfs14	2230	2150	+
+chr15	45723028	.	del	GAAGT	G	NM_032413(C15orf48):c.35_36delAA	c.36+1delGT	donor_site_exonic_intronic	p.E12Afs30	83	41	+
+chr15	45723028	.	del	GAAGT	G	NM_197955(C15orf48):c.35_36delAA	c.36+1delGT	donor_site_exonic_intronic	p.E12Afs30	83	41	+
+chr16	84215064	.	del	CGCAGCCTTGGGGAGACAG	C	NM_001243157(TAF1C):c.112_116delGCTGC	c.112-13delCTGTCTCCCCAAG	acceptor_site_exonic_intronic	p.L38Afs6	537	43	-
+chr15	56665701	.	del	TAGTA	T	NM_198524(TEX9):c.184delA	c.184+1delGTA	donor_site_exonic_intronic	p.R62Efs14	391	75	+
+chr15	63889942	.	del	CAGGT	C	NM_203373(FBXL22):c.352_353delAG	c.353+1delGT	donor_site_exonic_intronic	p.R118Afs33	247	150	+
+chr15	91308642	.	del	GATGTAAGTT	G	NM_000057(BLM):c.2194_2195delAT	c.2195+1delGTAAGTT	donor_site_exonic_intronic	p.I732Sfs7	1417	738	+
+chr15	91308642	.	del	GATGTAAGTT	G	NM_001287248(BLM):c.1069_1070delAT	c.1070+1delGTAAGTT	donor_site_exonic_intronic	p.I357Sfs7	1042	363	+
+chr15	91308642	.	del	GATGTAAGTT	G	NM_001287247(BLM):c.2194_2195delAT	c.2195+1delGTAAGTT	donor_site_exonic_intronic	p.I732Sfs7	1286	738	+
+chr15	91308642	.	del	GATGTAAGTT	G	NM_001287246(BLM):c.2194_2195delAT	c.2195+1delGTAAGTT	donor_site_exonic_intronic	p.I732Sfs7	1417	738	+
+chr15	95001473	.	del	GAAGT	G	NM_001159643(MCTP2):c.2194_2195delAA	c.2195+1delGT	donor_site_exonic_intronic	p.N732Hfs2	823	733	+
+chr15	95001473	.	del	GAAGT	G	NM_018349(MCTP2):c.2359_2360delAA	c.2360+1delGT	donor_site_exonic_intronic	p.N787Hfs2	878	788	+
+chr16	84215064	.	del	CGCAGCCTTGGGGAGACAG	C	NM_001243156(TAF1C):c.1030_1034delGCTGC	c.1030-13delCTGTCTCCCCAAG	acceptor_site_exonic_intronic	p.L344Afs6	843	349	-
+chr16	2223836	.	del	CTG	C	NM_032271(TRAF7):c.1135delT	c.1135+1delG	donor_site_exonic_intronic	p.S379Pfs93	670	471	+
+chr17	1619926	.	del	CTG	C	NM_001163673(WDR81):c.58delT	c.58+1delG	donor_site_exonic_intronic	p.Y20Ifs30	738	49	+
+chr17	7127870	.	del	CAGTA	C	NM_001033859(ACADVL):c.1613delA	c.1613+1delGTA	donor_site_exonic_intronic	p.N538Mfs29	633	566	+
+chr17	7127870	.	del	CAGTA	C	NM_000018(ACADVL):c.1679delA	c.1679+1delGTA	donor_site_exonic_intronic	p.N560Mfs29	655	588	+
+chr17	7127870	.	del	CAGTA	C	NM_001270448(ACADVL):c.1451delA	c.1451+1delGTA	donor_site_exonic_intronic	p.N484Mfs29	579	512	+
+chr17	7127870	.	del	CAGTA	C	NM_001270447(ACADVL):c.1748delA	c.1748+1delGTA	donor_site_exonic_intronic	p.N583Mfs29	678	611	+
+chr17	19564580	.	del	AGGTAAT	A	NM_001031806(ALDH3A2):c.940delG	c.940+1delGTAAT	donor_site_exonic_intronic	p.A314Pfs13	508	326	+
+chr17	19564580	.	del	AGGTAAT	A	NM_000382(ALDH3A2):c.940delG	c.940+1delGTAAT	donor_site_exonic_intronic	p.A314Pfs13	485	326	+
+chr19	868235	.	del	CACGGCCTTCAACAGCCCTGCAGG	C	NM_005481(MED16):c.2486_2501delGGCTGTTGAAGGCCGT	c.2486-7delCCTGCAG	acceptor_site_exonic_intronic	p.A829Gfs5	877	833	-
+chr17	27934888	.	del	CTGGACAGG	C	NM_152345(ANKRD13B):c.246_252delTGGACAG	c.252+1delG	donor_site_exonic_intronic	p.W82Cfs5	626	86	+
+chr17	30362657	.	del	CTG	C	NM_052888(LRRC37B):c.2123delT	c.2123+1delG	donor_site_exonic_intronic	p.L708Rfs33	947	740	+
+chr17	34431372	.	del	CAAGT	C	NM_002984(CCL4):c.75_76delAA	c.76+1delGT	donor_site_exonic_intronic	p.M26Gfs26	92	51	+
+chr17	45438886	.	del	CAGTG	C	NM_152347(EFCAB13):c.805delA	c.805+1delGTG	donor_site_exonic_intronic	p.S269Vfs13	973	281	+
+chr17	64637583	.	del	CAGTA	C	NM_002737(PRKCA):c.400delA	c.400+1delGTA	donor_site_exonic_intronic	p.T134Pfs3	672	136	+
+chr19	4499632	.	del	AAGCTGGCCGGGGAGG	A	NM_032631(HDGFRP2):c.1721_1722delAG	c.1722+1delCTGGCCGGGGAGG	donor_site_exonic_intronic	p.K574Tfs60	670	633	+
+chr19	7998450	.	del	GCCTCCCT	G	NM_006351(TIMM44):c.684_688delGGAGG	c.684-2delAG	acceptor_site_exonic_intronic	p.E228Dfs26	452	253	-
+chr19	4499632	.	del	AAGCTGGCCGGGGAGG	A	NM_001001520(HDGFRP2):c.1721_1722delAG	c.1722+1delCTGGCCGGGGAGG	donor_site_exonic_intronic	p.K574Tfs60	671	633	+
+chr19	2476398	.	del	GAAGT	G	NM_015675(GADD45B):c.43_44delAA	c.44+1delGT	donor_site_exonic_intronic	p.K15Dfs46	160	60	+
+chr19	5768251	.	del	GAAGT	G	NM_152784(CATSPERD):c.1633_1634delAA	c.1634+1delGT	donor_site_exonic_intronic	p.K545Gfs33	798	577	+
+chr19	38937406	.	del	CAGGT	C	NM_000540(RYR1):c.799_800delAG	c.800+1delGT	donor_site_exonic_intronic	p.S267Lfs34	5038	300	+
+chr19	38937406	.	del	CAGGT	C	NM_001042723(RYR1):c.799_800delAG	c.800+1delGT	donor_site_exonic_intronic	p.S267Lfs34	5033	300	+
+chr19	50040461	.	del	CTG	C	NM_020650(RCN3):c.618delT	c.618+1delG	donor_site_exonic_intronic	p.E207Kfs48	328	254	+
+chr19	50357990	.	del	CTG	C	NM_017432(PTOV1):c.392delT	c.392+1delG	donor_site_exonic_intronic	p.L131Rfs9	416	139	+
+chr19	50357990	.	del	CTG	C	NM_001305108(PTOV1):c.296delT	c.296+1delG	donor_site_exonic_intronic	p.L99Rfs9	374	107	+
+chr19	50357990	.	del	CTG	C	NM_001305105(PTOV1):c.392delT	c.392+1delG	donor_site_exonic_intronic	p.L131Rfs9	416	139	+
+chr2	208486631	.	del	AGAACGATGGCCT	A	NM_145280(METTL21A):c.148_157delGCCATCGTTC	c.148-2delAG	acceptor_site_exonic_intronic	p.A50Ffs28	218	77	-
+chr2	157332717	.	del	CAAGT	C	NM_000408(GPD2):c.102_103delAA	c.103+1delGT	donor_site_exonic_intronic	p.Q34Hfs6	727	39	+
+chr2	157332717	.	del	CAAGT	C	NM_001083112(GPD2):c.102_103delAA	c.103+1delGT	donor_site_exonic_intronic	p.Q34Hfs6	727	39	+
+chr2	208486631	.	del	AGAACGATGGCCT	A	NM_001308021(METTL21A):c.148_157delGCCATCGTTC	c.148-2delAG	acceptor_site_exonic_intronic	p.A50Ffs28	127	77	-
+chr2	186678765	.	del	GTAAGGTAAGTGA	G	NM_173651(FSIP2):c.20589_20592delTAAG	c.20592+1delGTAAGTGA	donor_site_exonic_intronic	p.C6863*	6996	6862	+
+chr2	201440183	.	del	GAGTA	G	NM_001160033(SGOL2):c.3775delA	c.3775+1delGTA	donor_site_exonic_intronic	p.T1259Qfs6	1260	1264	+
+chr2	201440183	.	del	GAGTA	G	NM_001160046(SGOL2):c.3783delA	c.3783+1delGTA	donor_site_exonic_intronic	p.E1261Dfs21	1261	1281	+
+chr2	201440183	.	del	GAGTA	G	NM_152524(SGOL2):c.3782delA	c.3782+1delGTA	donor_site_exonic_intronic	p.D1261Afs2	1265	1262	+
+chr2	201682804	.	del	ATGGT	A	NM_014670(BZW1):c.647_648delTG	c.648+1delGT	donor_site_exonic_intronic	p.M216Rfs6	353	221	+
+chr2	201682804	.	del	ATGGT	A	NM_001207069(BZW1):c.659_660delTG	c.660+1delGT	donor_site_exonic_intronic	p.M220Rfs6	423	225	+
+chr2	201682804	.	del	ATGGT	A	NM_001207068(BZW1):c.743_744delTG	c.744+1delGT	donor_site_exonic_intronic	p.M248Rfs6	451	253	+
+chr2	201682804	.	del	ATGGT	A	NM_001207067(BZW1):c.647_648delTG	c.648+1delGT	donor_site_exonic_intronic	p.M216Rfs6	419	221	+
+chr2	238402177	.	del	AGAGT	A	NM_001042467(MLPH):c.110_111delGA	c.111+1delGT	donor_site_exonic_intronic	p.E37Gfs6	572	42	+
+chr2	208486631	.	del	AGAACGATGGCCT	A	NM_001127395(METTL21A):c.148_157delGCCATCGTTC	c.148-2delAG	acceptor_site_exonic_intronic	p.A50Ffs28	218	77	-
+chr2	238402177	.	del	AGAGT	A	NM_001281474(MLPH):c.110_111delGA	c.111+1delGT	donor_site_exonic_intronic	p.E37Gfs6	457	42	+
+chr2	238402177	.	del	AGAGT	A	NM_001281473(MLPH):c.110_111delGA	c.111+1delGT	donor_site_exonic_intronic	p.E37Gfs6	480	42	+
+chr2	238402177	.	del	AGAGT	A	NM_024101(MLPH):c.110_111delGA	c.111+1delGT	donor_site_exonic_intronic	p.E37Gfs6	600	42	+
+chr22	38259044	.	del	TAGTG	T	NM_016091(EIF3L):c.506delA	c.506+1delGTG	donor_site_exonic_intronic	p.N169Mfs66	564	234	+
+chr22	42967207	.	del	CAAGT	C	NM_014509(SERHL2):c.731_732delAA	c.732+1delGT	donor_site_exonic_intronic	p.K244Sfs6	314	249	+
+chr22	42967207	.	del	CAAGT	C	NM_001284334(SERHL2):c.539_540delAA	c.540+1delGT	donor_site_exonic_intronic	p.K180Sfs6	250	185	+
+chr22	45198043	.	del	GAGTA	G	NM_001198726(ARHGAP8):c.167delA	c.167+1delGTA	donor_site_exonic_intronic	p.E56Gfs2	305	57	+
+chr22	45198043	.	del	GAGTA	G	NM_181335(ARHGAP8):c.167delA	c.167+1delGTA	donor_site_exonic_intronic	p.E56Gfs2	433	57	+
+chr22	45198043	.	del	GAGTA	G	NM_001017526(ARHGAP8):c.167delA	c.167+1delGTA	donor_site_exonic_intronic	p.E56Gfs2	464	57	+
+chr20	35684057	.	del	AGTCT	A	NM_002895(RBL1):c.1364_1365delAC	c.1364-2delAG	acceptor_site_exonic_intronic	p.D455Vfs14	1068	468	-
+chr22	45198043	.	del	GAGTA	G	NM_181334(PRR5-ARHGAP8):c.560delA	c.560+1delGTA	donor_site_exonic_intronic	p.E187Gfs2	564	188	+
+chr23	47088041	.	del	CAGGT	C	NM_006201(CDK16):c.1452_1453delAG	c.1453+1delGT	donor_site_exonic_intronic	p.G485Qfs95	496	579	+
+chr23	47088041	.	del	CAGGT	C	NM_001170460(CDK16):c.1674_1675delAG	c.1675+1delGT	donor_site_exonic_intronic	p.G559Qfs95	570	653	+
+chr23	47088041	.	del	CAGGT	C	NM_033018(CDK16):c.1470_1471delAG	c.1471+1delGT	donor_site_exonic_intronic	p.G491Qfs95	502	585	+
+chr23	49368394	.	del	AAGGT	A	NM_001040663(GAGE1):c.330_331delAG	c.331+1delGT	donor_site_exonic_intronic	p.G111*	117	110	+
+chr3	44438324	.	del	AAAGT	A	NM_001282914(TCAIM):c.452_453delAA	c.453+1delGT	donor_site_exonic_intronic	p.K151Tfs2	352	152	+
+chr3	44438324	.	del	AAAGT	A	NM_001282913(TCAIM):c.884_885delAA	c.885+1delGT	donor_site_exonic_intronic	p.K295Tfs2	496	296	+
+chr3	44438324	.	del	AAAGT	A	NM_001282915(TCAIM):c.452_453delAA	c.453+1delGT	donor_site_exonic_intronic	p.K151Tfs2	352	152	+
+chr3	44438324	.	del	AAAGT	A	NM_173826(TCAIM):c.884_885delAA	c.885+1delGT	donor_site_exonic_intronic	p.K295Tfs2	496	296	+
+chr3	52233455	.	del	GAGTA	G	NM_199166(ALAS1):c.201delA	c.201+1delGTA	donor_site_exonic_intronic	p.D68Tfs47	640	114	+
+chr20	35684057	.	del	AGTCT	A	NM_183404(RBL1):c.1364_1365delAC	c.1364-2delAG	acceptor_site_exonic_intronic	p.D455Vfs14	1014	468	-
+chr3	52233455	.	del	GAGTA	G	NM_000688(ALAS1):c.201delA	c.201+1delGTA	donor_site_exonic_intronic	p.D68Tfs47	640	114	+
+chr3	52233455	.	del	GAGTA	G	NM_001304443(ALAS1):c.201delA	c.201+1delGTA	donor_site_exonic_intronic	p.D68Tfs47	640	114	+
+chr3	52233455	.	del	GAGTA	G	NM_001304444(ALAS1):c.252delA	c.252+1delGTA	donor_site_exonic_intronic	p.D85Tfs47	657	131	+
+chr3	53886151	.	del	AAAGT	A	NM_018725(IL17RB):c.353_354delAA	c.354+1delGT	donor_site_exonic_intronic	p.K118Mfs21	502	138	+
+chr3	101447779	.	del	AAAGT	A	NM_001303401(CEP97):c.447_448delAA	c.448+1delGT	donor_site_exonic_intronic	p.K149Nfs12	806	160	+
+chr3	101447779	.	del	AAAGT	A	NM_024548(CEP97):c.447_448delAA	c.448+1delGT	donor_site_exonic_intronic	p.K149Nfs12	865	160	+
+chr3	138195168	.	del	AAAGT	A	NM_031913(ESYT3):c.2573_2574delAA	c.2574+1delGT	donor_site_exonic_intronic	p.K858Sfs3	886	860	+
+chr4	1801537	.	del	CAGGT	C	NM_001163213(FGFR3):c.444_445delAG	c.445+1delGT	donor_site_exonic_intronic	p.A150Pfs129	808	278	+
+chr4	1801537	.	del	CAGGT	C	NM_000142(FGFR3):c.444_445delAG	c.445+1delGT	donor_site_exonic_intronic	p.A150Pfs129	806	278	+
+chr4	1801537	.	del	CAGGT	C	NM_022965(FGFR3):c.444_445delAG	c.445+1delGT	donor_site_exonic_intronic	p.A150Pfs129	694	278	+
+chr3	69112652	.	del	ATTCTAC	A	NM_198195(UBA3):c.431_432delAA	c.431-4delGTAG	acceptor_site_exonic_intronic	p.Q144Lfs27	449	170	-
+chr4	71250280	.	del	CAGTA	C	NM_006685(SMR3B):c.54delA	c.54+1delGTA	donor_site_exonic_intronic	p.P19Lfs91	79	109	+
+chr4	100451113	.	del	AAAGT	A	NM_032149(C4orf17):c.546_547delAA	c.547+1delGT	donor_site_exonic_intronic	p.K182Nfs6	359	187	+
+chr4	154271280	.	del	CAGTA	C	NM_032117(MND1):c.72delA	c.72+1delGTA	donor_site_exonic_intronic	p.D25Mfs4	205	28	+
+chr4	154271280	.	del	CAGTA	C	NM_001253861(MND1):c.72delA	c.72+1delGTA	donor_site_exonic_intronic	p.D25Mfs4	122	28	+
+chr5	42797056	.	del	GAAGT	G	NM_001134848(CCDC152):c.557_558delAA	c.558+1delGT	donor_site_exonic_intronic	p.E186Vfs1	254	186	+
+chr3	69112652	.	del	ATTCTAC	A	NM_003968(UBA3):c.473_474delAA	c.473-4delGTAG	acceptor_site_exonic_intronic	p.Q158Lfs27	463	184	-
+chr5	74012496	.	del	AAAGT	A	NM_000521(HEXB):c.1168_1169delAA	c.1169+1delGT	donor_site_exonic_intronic	p.K390Gfs19	556	408	+
+chr5	74012496	.	del	AAAGT	A	NM_001292004(HEXB):c.493_494delAA	c.494+1delGT	donor_site_exonic_intronic	p.K165Gfs19	331	183	+
+chr5	75993970	.	del	AAAGT	A	NM_001285460(IQGAP2):c.4219_4220delAA	c.4220+1delGT	donor_site_exonic_intronic	p.N1407Yfs5	1525	1411	+
+chr5	75993970	.	del	AAAGT	A	NM_006633(IQGAP2):c.4369_4370delAA	c.4370+1delGT	donor_site_exonic_intronic	p.N1457Yfs5	1575	1461	+
+chr5	75993970	.	del	AAAGT	A	NM_001285462(IQGAP2):c.2857_2858delAA	c.2858+1delGT	donor_site_exonic_intronic	p.N953Yfs5	1071	957	+
+chr5	75993970	.	del	AAAGT	A	NM_001285461(IQGAP2):c.2857_2858delAA	c.2858+1delGT	donor_site_exonic_intronic	p.N953Yfs5	1071	957	+
+chr6	46663681	.	del	GGGTAAGTGAT	G	NM_001168359(TDRD6):c.6171delG	c.6171+1delGTAAGTGAT	donor_site_exonic_intronic	p.R2059Gfs4	2066	2062	+
+chr6	46663681	.	del	GGGTAAGTGAT	G	NM_001010870(TDRD6):c.6172delG	c.6172+1delGTAAGTGAT	donor_site_exonic_intronic	p.V2058Ffs1	2096	2058	+
+chr3	142548687	.	del	GCCTAAAAAA	G	NM_013363(PCOLCE2):c.711delG	c.711-8delTTTTTTAG	acceptor_site_exonic_intronic	p.P238Qfs16	415	253	-
+chr6	116949530	.	del	CAGGT	C	NM_001161664(RSPH4A):c.1664_1665delAG	c.1665+1delGT	donor_site_exonic_intronic	p.R555Ifs116	600	670	+
+chr6	116949530	.	del	CAGGT	C	NM_001010892(RSPH4A):c.1661_1662delAG	c.1662+1delGT	donor_site_exonic_intronic	p.Q554Rfs3	716	556	+
+chr6	132045229	.	del	AAAGT	A	NM_005021(ENPP3):c.1797_1798delAA	c.1798+1delGT	donor_site_exonic_intronic	p.E599Dfs14	875	612	+
+chr6	132058570	.	del	GAAGT	G	NM_005021(ENPP3):c.2169_2170delAA	c.2170+1delGT	donor_site_exonic_intronic	p.K723Nfs23	875	745	+
+chr6	139204006	.	del	AAGGTAAATG	A	NM_001077706(ECT2L):c.2027_2028delAG	c.2028+1delGTAAATG	donor_site_exonic_intronic	p.K676Mfs15	904	690	+
+chr6	139204006	.	del	AAGGTAAATG	A	NM_001195037(ECT2L):c.2027_2028delAG	c.2028+1delGTAAATG	donor_site_exonic_intronic	p.K676Mfs15	904	690	+
+chr7	94164834	.	del	CTG	C	NM_022900(CASD1):c.843delT	c.843+1delG	donor_site_exonic_intronic	p.T282Lfs2	797	283	+
+chr4	47887670	.	del	GTCGACTAAA	G	NM_001278624(NFXL1):c.1665_1668delTCGA	c.1665-5delTTTAG	acceptor_site_exonic_intronic	p.R556Hfs45	911	600	-
+chr7	149503916	.	del	GGATA	G	NM_198455(SSPO):c.8745delG	c.8745+1delATA	donor_site_exonic_intronic	p.I2916*	5147	2915	+
+chr8	24167481	.	del	CAAGT	C	NM_014265(ADAM28):c.226_227delAA	c.227+1delGT	donor_site_exonic_intronic	p.K76Efs12	775	87	+
+chr8	24167481	.	del	CAAGT	C	NM_021777(ADAM28):c.226_227delAA	c.227+1delGT	donor_site_exonic_intronic	p.K76Efs12	540	87	+
+chr8	24167481	.	del	CAAGT	C	NM_001304351(ADAM28):c.226_227delAA	c.227+1delGT	donor_site_exonic_intronic	p.K76Efs12	754	87	+
+chr8	27637782	.	del	CAAGT	C	NM_001017420(ESCO2):c.954_955delAA	c.955+1delGT	donor_site_exonic_intronic	p.I319Ffs2	601	320	+
+chr8	145617534	.	del	TGGGGGTGCAAGGTGA	T	NM_174922(ADCK5):c.1257_1267delGGGGGTGCAAG	c.1267+1delGTGA	donor_site_exonic_intronic	p.G420Lfs82	580	501	+
+chr9	35733478	.	del	CTAAGG	C	NM_006368(CREB3):c.432_435delTAAG	c.435+1delG	donor_site_exonic_intronic	p.K145Qfs5	371	149	+
+chr4	47887670	.	del	GTCGACTAAA	G	NM_001278623(NFXL1):c.1665_1668delTCGA	c.1665-5delTTTAG	acceptor_site_exonic_intronic	p.R556Hfs45	911	600	-
+chr1	1424581	.	del	CAGG	C	NM_031921(ATAD3B):c.1267delG	c.1267-2delAG	acceptor_site_exonic_intronic	p.E423Rfs2	648	424	+
+chr1	12815645	.	del	TCCAGTTCA	T	NM_152290(C1orf158):c.112_115delTTCA	c.112-4delCCAG	acceptor_site_exonic_intronic	p.F38Pfs43	194	80	+
+chr1	25627433	.	del	GCAGA	G	NM_001282871(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	493	166	+
+chr4	47887670	.	del	GTCGACTAAA	G	NM_152995(NFXL1):c.1665_1668delTCGA	c.1665-5delTTTAG	acceptor_site_exonic_intronic	p.R556Hfs45	911	600	-
+chr1	25627433	.	del	GCAGA	G	NM_001282868(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	378	166	+
+chr1	25627433	.	del	GCAGA	G	NM_001282870(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	463	166	+
+chr1	25627433	.	del	GCAGA	G	NM_001282869(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	396	166	+
+chr1	25627433	.	del	GCAGA	G	NM_001282872(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	431	166	+
+chr1	25627433	.	del	GCAGA	G	NM_016124(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	417	166	+
+chr1	25627433	.	del	GCAGA	G	NM_001127691(RHD):c.487delA	c.487-3delCAG	acceptor_site_exonic_intronic	p.T163Qfs4	321	166	+
+chr1	55279486	.	del	GA	G	NM_152607(C1orf177):c.770delA		acceptor_site_exonic	p.K257Sfs4	414	260	+
+chr1	55279486	.	del	GA	G	NM_001110533(C1orf177):c.770delA		acceptor_site_exonic	p.K257Sfs4	418	260	+
+chr10	5944980	.	del	CAGTG	C	NM_178150(FBXO18):c.2_3delTG	c.2-2delAG	acceptor_site_exonic_intronic	p.M1Kfs3	1043	3	+
+chr10	5944980	.	del	CAGTG	C	NM_032807(FBXO18):c.155_156delTG	c.155-2delAG	acceptor_site_exonic_intronic	p.M52Kfs3	1094	54	+
+chr10	91505653	.	del	TAGGAGC	T	NM_016195(KIF20B):c.3916_3919delGAGC	c.3916-2delAG	acceptor_site_exonic_intronic	p.E1306Sfs1	1780	1306	+
+chr10	91505653	.	del	TAGGAGC	T	NM_001284259(KIF20B):c.4036_4039delGAGC	c.4036-2delAG	acceptor_site_exonic_intronic	p.E1346Sfs1	1820	1346	+
+chr10	4875541	.	del	GC	G	NM_001271025(AKR1E2):c.208delC		acceptor_site_exonic	p.L70Cfs21	222	90	+
+chr10	4875541	.	del	GC	G	NM_001271021(AKR1E2):c.208delC		acceptor_site_exonic	p.L70Cfs21	263	90	+
+chr10	4875541	.	del	GC	G	NM_001040177(AKR1E2):c.208delC		acceptor_site_exonic	p.L70Cfs21	320	90	+
+chr10	5944980	.	complex	CAGTG	G	NM_178150(FBXO18):c.2_3delTG	c.2-2delAG	acceptor_site_exonic_intronic	p.M1Kfs3	1043	3	+
+chr10	5944980	.	complex	CAGTG	G	NM_032807(FBXO18):c.155_156delTG	c.155-2delAG	acceptor_site_exonic_intronic	p.M52Kfs3	1094	54	+
+chr11	63078478	.	del	GA	G	NM_001039752(SLC22A10):c.1607delA		acceptor_site_exonic	p.N536Ifs17	541	552	+
+chr11	65649644	.	del	AGAG	A	NM_001335(CTSW):c.287_288delAG	c.287-1delG	acceptor_site_exonic_intronic	p.E96Gfs25	376	120	+
+chr11	75694430	.	del	GA	G	NM_003369(UVRAG):c.709delA		acceptor_site_exonic	p.S237Vfs5	699	241	+
+chr11	101868327	.	del	CAGG	C	NM_020802(CEP126):c.3310delG	c.3310-2delAG	acceptor_site_exonic_intronic	p.E1104Rfs41	1117	1144	+
+chr11	60068473	.	del	GT	G	NM_148975(MS4A4A):c.333delT		acceptor_site_exonic	p.F111Lfs23	239	133	+
+chr11	60068473	.	del	GT	G	NM_001243266(MS4A4A):c.333delT		acceptor_site_exonic	p.F111Lfs27	186	137	+
+chr11	60068473	.	del	GT	G	NM_024021(MS4A4A):c.276delT		acceptor_site_exonic	p.F92Lfs23	220	114	+
+chr12	27571019	.	del	AGAT	A	NM_020183(ARNTL2):c.1666_1667delAT	c.1666-1delG	acceptor_site_exonic_intronic	p.M556Vfs2	636	557	+
+chr12	27571019	.	del	AGAT	A	NM_001248002(ARNTL2):c.1624_1625delAT	c.1624-1delG	acceptor_site_exonic_intronic	p.M542Vfs2	622	543	+
+chr12	27571019	.	del	AGAT	A	NM_001248004(ARNTL2):c.1522_1523delAT	c.1522-1delG	acceptor_site_exonic_intronic	p.M508Vfs2	588	509	+
+chr12	27571019	.	del	AGAT	A	NM_001248003(ARNTL2):c.1555_1556delAT	c.1555-1delG	acceptor_site_exonic_intronic	p.M519Vfs2	599	520	+
+chr12	123462987	.	del	AGAG	A	NM_024623(OGFOD2):c.224_225delAG	c.224-1delG	acceptor_site_exonic_intronic	p.E75Gfs31	290	105	+
+chr12	123462987	.	del	AGAG	A	NM_001304833(OGFOD2):c.404_405delAG	c.404-1delG	acceptor_site_exonic_intronic	p.E135Gfs31	350	165	+
+chr13	61141656	.	del	TAGG	T	NM_030794(TDRD3):c.1840delG	c.1840-2delAG	acceptor_site_exonic_intronic	p.E614Rfs?40	651	653	+
+chr13	61141656	.	del	TAGG	T	NM_001146070(TDRD3):c.2119delG	c.2119-2delAG	acceptor_site_exonic_intronic	p.E707Rfs?40	744	746	+
+chr13	61141656	.	del	TAGG	T	NM_001146071(TDRD3):c.1840delG	c.1840-2delAG	acceptor_site_exonic_intronic	p.E614Rfs?40	651	653	+
+chr14	100360963	.	del	TAGA	T	NM_004434(EML1):c.549delA	c.549-2delAG	acceptor_site_exonic_intronic	p.E184Kfs3	815	186	+
+chr14	100360963	.	del	TAGA	T	NM_001008707(EML1):c.606delA	c.606-2delAG	acceptor_site_exonic_intronic	p.E203Kfs3	834	205	+
+chr5	138857099	.	del	GCC	G	NM_198282(TMEM173):c.760delG	c.760-1delG	acceptor_site_exonic_intronic	p.A254Rfs92	379	345	-
+chr15	72699426	.	del	GC	G	NM_001080462(TMEM202):c.488delC		acceptor_site_exonic	p.A163Vfs52	273	214	+
+chr16	30198700	.	del	CAGG	C	NM_007074(CORO1A):c.637delG	c.637-2delAG	acceptor_site_exonic_intronic	p.E213Rfs22	461	234	+
+chr16	30198700	.	del	CAGG	C	NM_001193333(CORO1A):c.637delG	c.637-2delAG	acceptor_site_exonic_intronic	p.E213Rfs22	461	234	+
+chr6	17800340	.	del	GCAACC	G	NM_001105568(KIF13A):c.2455_2458delGTTG	c.2455-1delG	acceptor_site_exonic_intronic	p.V819Qfs7	1749	825	-
+chr16	88780991	.	del	GCAGA	G	NM_001012762(CTU2):c.1202delA	c.1202-3delCAG	acceptor_site_exonic_intronic	p.D401Afs22	485	422	+
+chr16	88780991	.	del	GCAGA	G	NM_001012759(CTU2):c.1202delA	c.1202-3delCAG	acceptor_site_exonic_intronic	p.D401Afs22	515	422	+
+chr16	89613064	.	del	AGGAGAGGCG	A	NM_003119(SPG7):c.1451_1458delGAGAGGCG	c.1451-1delG	acceptor_site_exonic_intronic	p.E484Gfs3	795	486	+
+chr16	22339830	.	del	GT	G	NM_001258035(POLR3E):c.1761delT		acceptor_site_exonic	p.Q590Rfs19	672	608	+
+chr16	22339830	.	del	GT	G	NM_018119(POLR3E):c.1869delT		acceptor_site_exonic	p.Q626Rfs19	708	644	+
+chr16	22339830	.	del	GT	G	NM_001258034(POLR3E):c.1761delT		acceptor_site_exonic	p.Q590Rfs19	672	608	+
+chr16	22339830	.	del	GT	G	NM_001258036(POLR3E):c.1869delT		acceptor_site_exonic	p.Q626Rfs19	666	644	+
+chr16	22339830	.	del	GT	G	NM_001258033(POLR3E):c.1869delT		acceptor_site_exonic	p.Q626Rfs19	687	644	+
+chr16	67201726	.	del	GC	G	NM_001538(HSF4):c.875delC		acceptor_site_exonic	p.P292Rfs73	462	364	+
+chr6	17800340	.	del	GCAACC	G	NM_001105567(KIF13A):c.2455_2458delGTTG	c.2455-1delG	acceptor_site_exonic_intronic	p.V819Qfs7	1757	825	-
+chr17	72349631	.	del	AGGCCCC	A	NM_153209(KIF19):c.2222_2226delGCCCC	c.2222-1delG	acceptor_site_exonic_intronic	p.A741Gfs13	998	753	+
+chr17	79966910	.	del	CAGCCCGTGGACCGGG	C	NM_001251888(ASPSCR1):c.934_946delCCCGTGGACCGGG	c.934-2delAG	acceptor_site_exonic_intronic	p.P312Sfs31	647	342	+
+chr17	79966910	.	del	CAGCCCGTGGACCGGG	C	NM_024083(ASPSCR1):c.934_946delCCCGTGGACCGGG	c.934-2delAG	acceptor_site_exonic_intronic	p.P312Sfs31	553	342	+
+chr17	53026878	.	del	GT	G	NM_005486(TOM1L1):c.1185delT		acceptor_site_exonic	p.L396Wfs35	476	430	+
+chr6	17800340	.	del	GCAACC	G	NM_001105566(KIF13A):c.2455_2458delGTTG	c.2455-1delG	acceptor_site_exonic_intronic	p.V819Qfs7	1770	825	-
+chr6	17800340	.	del	GCAACC	G	NM_022113(KIF13A):c.2455_2458delGTTG	c.2455-1delG	acceptor_site_exonic_intronic	p.V819Qfs7	1805	825	-
+chr19	49611077	.	del	AGGGACC	A	NM_001301069(SNRNP70):c.668_672delGGACC	c.668-1delG	acceptor_site_exonic_intronic	p.D223Gfs4	428	226	+
+chr19	1054776	.	del	CAGTG	C	NM_019112(ABCA7):c.3852_3853delTG	c.3852-2delAG	acceptor_site_exonic_intronic	p.S1284Rfs29	2146	1312	+
+chr19	7626371	.	del	CAGG	C	NM_001166112(PNPLA6):c.3829delG	c.3829-2delAG	acceptor_site_exonic_intronic	p.E1277Rfs57	1300	1333	+
+chr19	7626371	.	del	CAGG	C	NM_001166113(PNPLA6):c.3910delG	c.3910-2delAG	acceptor_site_exonic_intronic	p.E1304Rfs57	1327	1360	+
+chr19	7626371	.	del	CAGG	C	NM_001166111(PNPLA6):c.4054delG	c.4054-2delAG	acceptor_site_exonic_intronic	p.E1352Rfs57	1375	1408	+
+chr19	7626371	.	del	CAGG	C	NM_006702(PNPLA6):c.3910delG	c.3910-2delAG	acceptor_site_exonic_intronic	p.E1304Rfs57	1327	1360	+
+chr19	7626371	.	del	CAGG	C	NM_001166114(PNPLA6):c.4024delG	c.4024-2delAG	acceptor_site_exonic_intronic	p.E1342Rfs57	1365	1398	+
+chr19	36133514	.	del	CAGA	C	NM_014209(ETV2):c.72delA	c.72-2delAG	acceptor_site_exonic_intronic	p.G25Efs3	342	27	+
+chr19	36133514	.	del	CAGA	C	NM_001304549(ETV2):c.72delA	c.72-2delAG	acceptor_site_exonic_intronic	p.G25Efs3	155	27	+
+chr19	49982165	.	del	GC	G	NM_001278638(FLT3LG):c.105delC		acceptor_site_exonic	p.S36Afs23	153	58	+
+chr19	49982165	.	del	GC	G	NM_001278637(FLT3LG):c.105delC		acceptor_site_exonic	p.S36Afs23	153	58	+
+chr19	49982165	.	del	GC	G	NM_001204503(FLT3LG):c.351delC		acceptor_site_exonic	p.S118Afs23	235	140	+
+chr19	49982165	.	del	GC	G	NM_001204502(FLT3LG):c.351delC		acceptor_site_exonic	p.S118Afs23	235	140	+
+chr19	49982165	.	del	GC	G	NM_001459(FLT3LG):c.351delC		acceptor_site_exonic	p.S118Afs23	235	140	+
+chr2	71211738	.	del	CAGAA	C	NM_001115116(ANKRD53):c.905_906delAA	c.905-2delAG	acceptor_site_exonic_intronic	p.K302Rfs86	530	387	+
+chr2	99988116	.	del	CAGA	C	NM_015904(EIF5B):c.1479delA	c.1479-2delAG	acceptor_site_exonic_intronic	p.E494Kfs24	1220	517	+
+chr2	239241462	.	del	TAGTC	T	NM_015650(TRAF3IP1):c.916_917delTC	c.916-2delAG	acceptor_site_exonic_intronic	p.A307Kfs6	691	312	+
+chr2	239241462	.	del	TAGTC	T	NM_001139490(TRAF3IP1):c.916_917delTC	c.916-2delAG	acceptor_site_exonic_intronic	p.A307Kfs6	625	312	+
+chr2	27352972	.	del	GA	G	NM_032604(ABHD1):c.794delA		acceptor_site_exonic	p.N265Tfs3	405	267	+
+chr2	48906473	.	del	GA	G	NM_172311(STON1-GTF2A1L):c.3442delA		acceptor_site_exonic	p.I1148Ffs11	1182	1158	+
+chr2	48906473	.	del	GA	G	NM_001198594(STON1-GTF2A1L):c.3301delA		acceptor_site_exonic	p.I1101Ffs11	1135	1111	+
+chr2	48906473	.	del	GA	G	NM_006872(GTF2A1L):c.1330delA		acceptor_site_exonic	p.I444Ffs11	478	454	+
+chr6	84061851	.	del	AGAGACCTCTGCAG	A	NM_002395(ME1):c.363_369delAGGTCTC	c.363-6delCTGCAG	acceptor_site_exonic_intronic	p.R121Sfs27	572	147	-
+chr2	48906473	.	del	GA	G	NM_001193487(GTF2A1L):c.1228delA		acceptor_site_exonic	p.I410Ffs11	444	420	+
+chr20	33578538	.	del	CAGG	C	NM_020884(MYH7B):c.2104delG	c.2104-2delAG	acceptor_site_exonic_intronic	p.E702Rfs5	1983	706	+
+chr20	33587372	.	del	AGAG	A	NM_020884(MYH7B):c.4667_4668delAG	c.4667-1delG	acceptor_site_exonic_intronic	p.E1556Gfs31	1983	1586	+
+chr20	58563958	.	del	GC	G	NM_177980(CDH26):c.1025delC		acceptor_site_exonic	p.P342Lfs41	832	382	+
+chr21	46924433	.	del	CAGGCCCCCC	C	NM_130445(COL18A1):c.2825_2831delGCCCCCC	c.2825-2delAG	acceptor_site_exonic_intronic	p.G942Efs83	1336	1024	+
+chr21	46924433	.	del	CAGGCCCCCC	C	NM_030582(COL18A1):c.3365_3371delGCCCCCC	c.3365-2delAG	acceptor_site_exonic_intronic	p.G1122Efs83	1516	1204	+
+chr21	46924433	.	del	CAGGCCCCCC	C	NM_130444(COL18A1):c.4070_4076delGCCCCCC	c.4070-2delAG	acceptor_site_exonic_intronic	p.G1357Efs83	1751	1439	+
+chr22	29694720	.	del	TAGGTCCAGG	T	NM_005243(EWSR1):c.1418_1424delGTCCAGG	c.1418-2delAG	acceptor_site_exonic_intronic	p.G473Efs150	656	622	+
+chr7	6089674	.	del	GTACTATAAA	G	NM_014413(EIF2AK1):c.278_279delTA	c.278-7delTTTATAG	acceptor_site_exonic_intronic	p.L93Pfs16	630	108	-
+chr22	29694720	.	del	TAGGTCCAGG	T	NM_013986(EWSR1):c.1433_1439delGTCCAGG	c.1433-2delAG	acceptor_site_exonic_intronic	p.G478Efs150	661	627	+
+chr22	29694720	.	del	TAGGTCCAGG	T	NM_001163285(EWSR1):c.1415_1421delGTCCAGG	c.1415-2delAG	acceptor_site_exonic_intronic	p.G472Efs150	655	621	+
+chr22	29694720	.	del	TAGGTCCAGG	T	NM_001163286(EWSR1):c.1250_1256delGTCCAGG	c.1250-2delAG	acceptor_site_exonic_intronic	p.G417Efs150	600	566	+
+chr22	44495931	.	del	AGAG	A	NM_001243386(PARVB):c.47_48delAG	c.47-1delG	acceptor_site_exonic_intronic	p.E16Gfs8	289	23	+
+chr22	44495931	.	del	AGAG	A	NM_001243385(PARVB):c.92_93delAG	c.92-1delG	acceptor_site_exonic_intronic	p.E31Gfs8	327	38	+
+chr22	44495931	.	del	AGAG	A	NM_001003828(PARVB):c.302_303delAG	c.302-1delG	acceptor_site_exonic_intronic	p.E101Gfs8	397	108	+
+chr22	44495931	.	del	AGAG	A	NM_013327(PARVB):c.203_204delAG	c.203-1delG	acceptor_site_exonic_intronic	p.E68Gfs8	364	75	+
+chr7	6089674	.	del	GTACTATAAA	G	NM_001134335(EIF2AK1):c.278_279delTA	c.278-7delTTTATAG	acceptor_site_exonic_intronic	p.L93Pfs16	629	108	-
+chr23	106109020	.	del	TAGAA	T	NM_017752(TBC1D8B):c.2423_2424delAA	c.2423-2delAG	acceptor_site_exonic_intronic	p.K808Rfs18	1120	825	+
+chr23	142121808	.	del	CAGA	C	NM_001009613(SPANXN4):c.80delA	c.80-2delAG	acceptor_site_exonic_intronic	p.K27Rfs14	99	40	+
+chr3	1413980	.	del	CAGAG	C	NM_001289080(CNTN6):c.1496_1497delAG	c.1496-2delAG	acceptor_site_exonic_intronic	p.R499Nfs26	1028	524	+
+chr3	1413980	.	del	CAGAG	C	NM_014461(CNTN6):c.1496_1497delAG	c.1496-2delAG	acceptor_site_exonic_intronic	p.R499Nfs26	1028	524	+
+chr3	1413980	.	del	CAGAG	C	NM_001289081(CNTN6):c.1280_1281delAG	c.1280-2delAG	acceptor_site_exonic_intronic	p.R427Nfs26	956	452	+
+chr3	134270765	.	del	CAGG	C	NM_001042384(CEP63):c.1243delG	c.1243-2delAG	acceptor_site_exonic_intronic	p.E415Rfs10	475	424	+
+chr3	134270765	.	del	CAGG	C	NM_001042383(CEP63):c.1243delG	c.1243-2delAG	acceptor_site_exonic_intronic	p.E415Rfs10	495	424	+
+chr3	134270765	.	del	CAGG	C	NM_025180(CEP63):c.1381delG	c.1381-2delAG	acceptor_site_exonic_intronic	p.E461Rfs10	703	470	+
+chr3	134270765	.	del	CAGG	C	NM_001042400(CEP63):c.1381delG	c.1381-2delAG	acceptor_site_exonic_intronic	p.E461Rfs10	541	470	+
+chr3	180322637	.	del	AAGG	A	NM_133462(TTC14):c.702delG	c.702-2delAG	acceptor_site_exonic_intronic	p.R235Efs4	770	238	+
+chr7	7413176	.	del	ACCTAAAAG	A	NM_001037763(COL28A1):c.2360delG	c.2360-7delCTTTTAG	acceptor_site_exonic_intronic	p.G787Vfs10	1125	796	-
+chr3	180322637	.	del	AAGG	A	NM_001288582(TTC14):c.702delG	c.702-2delAG	acceptor_site_exonic_intronic	p.R235Efs4	653	238	+
+chr3	180322637	.	del	AAGG	A	NM_001042601(TTC14):c.702delG	c.702-2delAG	acceptor_site_exonic_intronic	p.R235Efs4	439	238	+
+chr3	193384956	.	del	CAGTT	C	NM_130831(OPA1):c.2600_2601delTT	c.2600-2delAG	acceptor_site_exonic_intronic	p.V867Efs7	924	873	+
+chr3	193384956	.	del	CAGTT	C	NM_130837(OPA1):c.2873_2874delTT	c.2873-2delAG	acceptor_site_exonic_intronic	p.V958Efs7	1015	964	+
+chr3	193384956	.	del	CAGTT	C	NM_130836(OPA1):c.2819_2820delTT	c.2819-2delAG	acceptor_site_exonic_intronic	p.V940Efs7	997	946	+
+chr3	193384956	.	del	CAGTT	C	NM_130835(OPA1):c.2765_2766delTT	c.2765-2delAG	acceptor_site_exonic_intronic	p.V922Efs7	979	928	+
+chr3	193384956	.	del	CAGTT	C	NM_130834(OPA1):c.2762_2763delTT	c.2762-2delAG	acceptor_site_exonic_intronic	p.V921Efs7	978	927	+
+chr3	193384956	.	del	CAGTT	C	NM_130833(OPA1):c.2711_2712delTT	c.2711-2delAG	acceptor_site_exonic_intronic	p.V904Efs7	961	910	+
+chr3	193384956	.	del	CAGTT	C	NM_130832(OPA1):c.2654_2655delTT	c.2654-2delAG	acceptor_site_exonic_intronic	p.V885Efs7	942	891	+
+chr3	193384956	.	del	CAGTT	C	NM_015560(OPA1):c.2708_2709delTT	c.2708-2delAG	acceptor_site_exonic_intronic	p.V903Efs7	960	909	+
+chr7	81695839	.	del	AGCT	A	NM_000722(CACNA2D1):c.659delC	c.659-2delAG	acceptor_site_exonic_intronic	p.A220Vfs40	1091	259	-
+chr4	8472808	.	del	CAGAG	C	NM_152544(TRMT44):c.1930_1931delAG	c.1930-2delAG	acceptor_site_exonic_intronic	p.S644Pfs67	757	710	+
+chr4	79391130	.	del	AGATTAT	A	NM_025074(FRAS1):c.7258_7262delATTAT	c.7258-1delG	acceptor_site_exonic_intronic	p.I2420Dfs15	4012	2434	+
+chr4	119618333	.	del	ATAGGTACTTAC	A	NM_020961(METTL14):c.504_511delGTACTTAC	c.504-3delTAG	acceptor_site_exonic_intronic	p.M168Ifs7	456	174	+
+chr4	185615672	.	del	AAAGG	A	NM_152683(PRIMPOL):c.1426delG	c.1426-3delAAG	acceptor_site_exonic_intronic	p.E476Kfs47	560	522	+
+chr4	185615672	.	del	AAAGG	A	NM_001300767(PRIMPOL):c.1039delG	c.1039-3delAAG	acceptor_site_exonic_intronic	p.E347Kfs47	431	393	+
+chr4	185615672	.	del	AAAGG	A	NM_001300768(PRIMPOL):c.1423delG	c.1423-3delAAG	acceptor_site_exonic_intronic	p.E475Kfs47	559	521	+
+chr4	111482561	.	del	GA	G	NM_001977(ENPEP):c.2722delA		acceptor_site_exonic	p.M908Wfs24	957	931	+
+chr4	185582927	.	del	GA	G	NM_152683(PRIMPOL):c.284delA		acceptor_site_exonic	p.N95Ifs61	560	155	+
+chr4	185582927	.	del	GA	G	NM_001300768(PRIMPOL):c.284delA		acceptor_site_exonic	p.N95Ifs61	559	155	+
+chr7	81695839	.	del	AGCT	A	NM_001302890(CACNA2D1):c.659delC	c.659-2delAG	acceptor_site_exonic_intronic	p.A220Vfs40	309	259	-
+chr5	66458432	.	del	TAGG	T	NM_001164664(MAST4):c.3786delG	c.3786-2delAG	acceptor_site_exonic_intronic	p.R1263Gfs7	2623	1269	+
+chr5	66458432	.	del	TAGG	T	NM_001290226(MAST4):c.3168delG	c.3168-2delAG	acceptor_site_exonic_intronic	p.R1057Gfs7	2417	1063	+
+chr5	66458432	.	del	TAGG	T	NM_001297651(MAST4):c.3204delG	c.3204-2delAG	acceptor_site_exonic_intronic	p.R1069Gfs7	2429	1075	+
+chr5	66458432	.	del	TAGG	T	NM_015183(MAST4):c.3219delG	c.3219-2delAG	acceptor_site_exonic_intronic	p.R1074Gfs7	2434	1080	+
+chr5	66458432	.	del	TAGG	T	NM_001290227(MAST4):c.3003delG	c.3003-2delAG	acceptor_site_exonic_intronic	p.R1002Gfs7	2362	1008	+
+chr5	134076750	.	del	CAGA	C	NM_001745(CAMLG):c.174delA	c.174-2delAG	acceptor_site_exonic_intronic	p.E59Kfs14	296	72	+
+chr5	137217657	.	del	TGTAGAA	T	NM_006790(MYOT):c.684_685delAA	c.684-4delGTAG	acceptor_site_exonic_intronic	p.S229*	498	228	+
+chr5	137217657	.	del	TGTAGAA	T	NM_001135940(MYOT):c.132_133delAA	c.132-4delGTAG	acceptor_site_exonic_intronic	p.S45*	314	44	+
+chr5	137217657	.	del	TGTAGAA	T	NM_001300911(MYOT):c.339_340delAA	c.339-4delGTAG	acceptor_site_exonic_intronic	p.S114*	383	113	+
+chr5	7896974	.	del	TAGAG	T	NM_024010(MTRR):c.1761_1762delAG	c.1761-2delAG	acceptor_site_exonic_intronic	p.K588Tfs21	725	608	+
+chr5	7896974	.	del	TAGAG	T	NM_002454(MTRR):c.1680_1681delAG	c.1680-2delAG	acceptor_site_exonic_intronic	p.K561Tfs21	698	581	+
+chr6	43174056	.	del	CAGGAGGAAG	C	NM_015089(CUL9):c.5023_5029delGAGGAAG	c.5023-2delAG	acceptor_site_exonic_intronic	p.E1675Rfs103	2517	1777	+
+chr6	144765416	.	del	GA	G	NM_007124(UTRN):c.1515delA		acceptor_site_exonic	p.K505Nfs36	3433	540	+
+chr7	2634517	.	del	TAGAG	T	NM_001287499(IQCE):c.1352_1353delAG	c.1352-2delAG	acceptor_site_exonic_intronic	p.E451Gfs28	702	478	+
+chr7	2634517	.	del	TAGAG	T	NM_001287500(IQCE):c.1304_1305delAG	c.1304-2delAG	acceptor_site_exonic_intronic	p.E435Gfs28	686	462	+
+chr7	2634517	.	del	TAGAG	T	NM_152558(IQCE):c.1352_1353delAG	c.1352-2delAG	acceptor_site_exonic_intronic	p.E451Gfs28	695	478	+
+chr7	2634517	.	del	TAGAG	T	NM_001287501(IQCE):c.1157_1158delAG	c.1157-2delAG	acceptor_site_exonic_intronic	p.E386Gfs28	630	413	+
+chr9	90584254	.	del	TCAGTGAGCTCCTGGGC	T	NM_178432(CDK20):c.664_673delGAGCTCACTG	c.664-6delGCCCAG	acceptor_site_exonic_intronic	p.E222Sfs73	338	294	-
+chr7	2634517	.	del	TAGAG	T	NM_001287502(IQCE):c.1157_1158delAG	c.1157-2delAG	acceptor_site_exonic_intronic	p.E386Gfs28	637	413	+
+chr7	138921748	.	del	CAGA	C	NM_173569(UBN2):c.470delA	c.470-2delAG	acceptor_site_exonic_intronic	p.K157Rfs28	1347	184	+
+chr7	151805120	.	del	CAGG	C	NM_022087(GALNT11):c.713delG	c.713-2delAG	acceptor_site_exonic_intronic	p.G238Efs12	608	249	+
+chr7	151805120	.	del	CAGG	C	NM_001304514(GALNT11):c.470delG	c.470-2delAG	acceptor_site_exonic_intronic	p.G157Efs12	527	168	+
+chr8	27308263	.	del	CAGG	C	NM_173176(PTK2B):c.2341delG	c.2341-2delAG	acceptor_site_exonic_intronic	p.E781Rfs54	1009	834	+
+chr9	90584254	.	del	TCAGTGAGCTCCTGGGC	T	NM_001170640(CDK20):c.501_510delGAGCTCACTG	c.501-6delGCCCAG	acceptor_site_exonic_intronic	p.S168Afs9	243	176	-
+chr8	27308263	.	del	CAGG	C	NM_173175(PTK2B):c.2215delG	c.2215-2delAG	acceptor_site_exonic_intronic	p.E739Rfs54	967	792	+
+chr8	27308263	.	del	CAGG	C	NM_173174(PTK2B):c.2341delG	c.2341-2delAG	acceptor_site_exonic_intronic	p.E781Rfs54	1009	834	+
+chr8	27308263	.	del	CAGG	C	NM_004103(PTK2B):c.2341delG	c.2341-2delAG	acceptor_site_exonic_intronic	p.E781Rfs54	1009	834	+
+chr9	116258062	.	del	CCAGA	C	NM_017790(RGS3):c.354delA	c.354-3delCAG	acceptor_site_exonic_intronic	p.R118Sfs8	602	125	+
+chr9	116258062	.	del	CCAGA	C	NM_001282923(RGS3):c.360delA	c.360-3delCAG	acceptor_site_exonic_intronic	p.R120Sfs8	1088	127	+
+chr9	116258062	.	del	CCAGA	C	NM_144488(RGS3):c.690delA	c.690-3delCAG	acceptor_site_exonic_intronic	p.R230Sfs8	1198	237	+
+chr9	134354636	.	del	CAGGTGCCTGTCAA	C	NM_013318(PRRC2B):c.4759_4769delGTGCCTGTCAA	c.4759-2delAG	acceptor_site_exonic_intronic	p.V1587Rfs24	2229	1610	+
+chr9	90584254	.	del	TCAGTGAGCTCCTGGGC	T	NM_001170639(CDK20):c.625_634delGAGCTCACTG	c.625-6delGCCCAG	acceptor_site_exonic_intronic	p.E209Sfs56	275	264	-
+chr9	139840535	.	del	AGCCCGAGAC	A	NM_000606(C8G):c.347_354delCCCGAGAC	c.347-1delG	acceptor_site_exonic_intronic	p.A116Gfs10	202	125	+
+chr9	90584254	.	del	TCAGTGAGCTCCTGGGC	T	NM_012119(CDK20):c.625_634delGAGCTCACTG	c.625-6delGCCCAG	acceptor_site_exonic_intronic	p.E209Sfs73	325	281	-
+chr9	90584254	.	del	TCAGTGAGCTCCTGGGC	T	NM_001039803(CDK20):c.688_697delGAGCTCACTG	c.688-6delGCCCAG	acceptor_site_exonic_intronic	p.E230Sfs73	346	302	-
